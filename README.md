@@ -19,9 +19,22 @@ List of resources and tools developed with a particular focus on German
 * [German Political Speeches Corpus](http://purl.org/corpus/german-speeches)
 
 
-## Tools
+### Data acquisition
 
-### Linguistic processing
+#### Text archives
+
+* []()
+
+#### Web data
+
+* []()
+
+#### Social networks
+
+* []()
+
+
+## Linguistic processing/annotation
 
 #### Tokenization
 
@@ -33,26 +46,34 @@ List of resources and tools developed with a particular focus on German
 * [SoMeWeTa](https://github.com/tsproisl/SoMeWeTa)
 * [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
 
+
 #### Syntactical annotation
+
+* []()
 
 #### Word embeddings
 
+* []()
+
 #### Word senses
+
+* []()
 
 #### Sentiment detection
 
-### Speech NLP
+* []()
 
-### Machine Translation
+## Speech NLP
 
+* []()
 
-### Data acquisition
+## Machine Translation
 
-#### Text archives
+* []()
 
-#### Web data
+## Standards
 
-#### Social networks
+* [DTA Basisformat](http://www.deutschestextarchiv.de/doku/basisformat/)
 
 
 ## More information
