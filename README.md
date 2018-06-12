@@ -42,7 +42,7 @@ List of open-access/open-source/off-the-shelf resources and tools developed with
 
 #### Frameworks
 
-* [DKPro](http://www.ukp.tu-darmstadt.de/projects/dkpro/)
+* [DKPro](https://dkpro.github.io)
 * [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 
 #### Tokenization
