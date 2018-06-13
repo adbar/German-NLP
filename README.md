@@ -1,6 +1,8 @@
 # German-NLP
 
-List of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German.
+Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/adbar/german-nlp)
+
+Pull requests and suggestions are welcome!
 
 
 ## Corpora
@@ -25,16 +27,6 @@ List of open-access/open-source/off-the-shelf resources and tools developed with
 
 ### Data acquisition
 
-#### Text archives
-
-* []()
-
-#### Web data
-
-* []()
-
-#### Social networks
-
 * []()
 
 
@@ -43,19 +35,26 @@ List of open-access/open-source/off-the-shelf resources and tools developed with
 #### Frameworks
 
 * [DKPro](https://dkpro.github.io)
+* [spaCy](https://github.com/explosion/spaCy)
 * [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 
 #### Tokenization
 
 * [SoMaJo](https://github.com/tsproisl/SoMaJo)
-* [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
 
 #### Morphological analysis
 
+* [DEMorphy](https://github.com/DuyguA/DEMorphy)
+* [HypheNN-de](https://github.com/msiemens/HypheNN-de)
+* [jwordsplitter](https://github.com/danielnaber/jwordsplitter)
+* [MarMoT](http://cistern.cis.lmu.de/marmot/)
 * [Morphy](http://morphy.wolfganglezius.de/)
+* [SMOR](http://www.cis.uni-muenchen.de/~schmid/tools/SMOR/)
 
 #### POS-tagging
 
+* [clevertagger](https://github.com/rsennrich/clevertagger)
+* [pattern.de](https://www.clips.uantwerpen.be/pages/pattern-de)
 * [RFTagger](http://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/)
 * [SoMeWeTa](https://github.com/tsproisl/SoMeWeTa)
 * [TnT](http://www.coli.uni-saarland.de/~thorsten/tnt/)
@@ -64,20 +63,27 @@ List of open-access/open-source/off-the-shelf resources and tools developed with
 
 #### Syntactical annotation
 
+* [German Universal Dependency Treebank](https://github.com/UniversalDependencies/UD_German-GSD/tree/master)
 * [ParZu](https://github.com/rsennrich/parzu)
 * [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml)
 
-#### Word embeddings
 
-* []()
-
-#### Word senses
+#### Word embeddings and senses
 
 * [GermaNet](http://www.sfs.uni-tuebingen.de/GermaNet/)
+   * [pygermanet](https://github.com/wroberts/pygermanet)
+* [GermanWordEmbeddings](https://github.com/devmount/GermanWordEmbeddings)
+* [sensegram](https://github.com/tudarmstadt-lt/sensegram)
+
 
 #### Sentiment detection
 
 * [GermanPolarityClues](http://www.ulliwaltinger.de/sentiment/)
+
+
+#### Named Entity Recognition
+
+* [GermaNER](https://github.com/tudarmstadt-lt/GermaNER)
 
 ## Speech NLP
 
@@ -91,16 +97,33 @@ List of open-access/open-source/off-the-shelf resources and tools developed with
 
 * [DTA Basisformat](http://www.deutschestextarchiv.de/doku/basisformat/)
 
+## Industry/Applications
+
+* [German Decompounder for Apache Lucene / Apache Solr / Elasticsearch](https://github.com/uschindler/german-decompounder)
+
 
 ## More information
 
-Further relevant lists:
-* [Awesome Community-Curated NLP List](https://github.com/alvations/awesome-community-curated-nlp)
-* [GitHub topic corpus-linguistics](https://github.com/topics/corpus-linguistics)
-* [GitHub topic nlp](https://github.com/topics/nlp)
+#### German
+
 * [LRE Map](http://lremap.elra.info/?&selected_facets=languageFilter_exact%3AGerman)
 * [MetaShare Language Resources](http://metashare.ilsp.gr:8080/repository/search/?q=&selected_facets=languageNameFilter_exact%3AGerman)
 * [Peter Kolb's list](http://www.ling.uni-potsdam.de/~kolb/nlp-tools.html)
+
+
+#### General
+
+* [GitHub topic corpus-linguistics](https://github.com/topics/corpus-linguistics)
+* [GitHub topic nlp](https://github.com/topics/nlp)
 * [/r/LanguageTechnology/](https://www.reddit.com/r/LanguageTechnology/)
 
+
+#### Comparable lists
+
+* [awesome-nlp](https://github.com/keon/awesome-nlp)
+* [Awesome Community-Curated NLP List](https://github.com/alvations/awesome-community-curated-nlp)
+* [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP)
+* [awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp)
+* [Indonesian NLP](https://github.com/kmkurn/id-nlp-resource)
+* [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
 
