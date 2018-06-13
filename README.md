@@ -1,12 +1,11 @@
 # German-NLP
 
-Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/adbar/german-nlp)
+Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Pull requests and suggestions are welcome!
+Pull requests and suggestions are welcome! See [contributing guidelines](contributing.md)
 
 
 ## Corpora
-
 
 ### General-purpose
 
@@ -126,4 +125,9 @@ Pull requests and suggestions are welcome!
 * [awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp)
 * [Indonesian NLP](https://github.com/kmkurn/id-nlp-resource)
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
+
+
+## License
+
+[![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)
 
