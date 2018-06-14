@@ -2,8 +2,9 @@
 
 Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Pull requests and suggestions are welcome! See [contributing guidelines](contributing.md)
+Resources and tools which can be used either off-the-shelf or with minor adjustments and which are maintained are primarily chosen for this list. It is deliberately biased in terms of usability and user-friendliness.
 
+Pull requests and suggestions are welcome! See [contributing guidelines](contributing.md)
 
 ## Corpora
 
@@ -114,6 +115,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [GitHub topic corpus-linguistics](https://github.com/topics/corpus-linguistics)
 * [GitHub topic nlp](https://github.com/topics/nlp)
+* [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
 * [/r/LanguageTechnology/](https://www.reddit.com/r/LanguageTechnology/)
 
 
