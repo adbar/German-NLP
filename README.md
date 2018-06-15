@@ -20,6 +20,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Deutsches Textarchiv](https://deutschestextarchiv.de/)
 * [German Political Speeches Corpus](http://purl.org/corpus/german-speeches)
 
+* [CorpusExplorer's list of corpora](https://notes.jan-oliver-ruediger.de/korpora/)
+
 ### Learner/Error Corpora
 
 * [C-WEP](http://lingured.info/linguistic-resources/cwep/)
@@ -34,6 +36,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 #### Frameworks
 
+* [CorpusExplorer](http://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/)
 * [DKPro](https://dkpro.github.io)
 * [spaCy](https://github.com/explosion/spaCy)
 * [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
@@ -93,6 +96,11 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * []()
 
+## Summarization
+
+* [Tools and corpora for summarization of German texts](https://github.com/AIPHES)
+
+
 ## Standards
 
 * [DTA Basisformat](http://www.deutschestextarchiv.de/doku/basisformat/)
@@ -100,6 +108,10 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ## Industry/Applications
 
 * [German Decompounder for Apache Lucene / Apache Solr / Elasticsearch](https://github.com/uschindler/german-decompounder)
+
+## Tutorials
+
+* [deeplearning4nlp-tutorial](https://github.com/UKPLab/deeplearning4nlp-tutorial)
 
 
 ## More information
