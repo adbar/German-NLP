@@ -49,7 +49,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 #### Tokenization
 
 * [SoMaJo](https://github.com/tsproisl/SoMaJo)
-* waste
+* [waste](http://kaskade.dwds.de/waste/)
 
 
 #### Morphological analysis
