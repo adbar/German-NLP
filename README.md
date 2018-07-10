@@ -46,6 +46,13 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 
 
+#### Treebanks
+
+* [German Universal Dependency Treebank](https://github.com/UniversalDependencies/UD_German-GSD/tree/master)
+* [TIGER Corpus](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/tiger.en.html)
+* [TüBa-D/Z](http://www.sfs.uni-tuebingen.de/en/ascl/resources/corpora/tueba-dz.html)
+
+
 #### Tokenization
 
 * [SoMaJo](https://github.com/tsproisl/SoMaJo)
@@ -78,7 +85,6 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [BitPar](http://www.cis.uni-muenchen.de/~schmid/tools/BitPar/)
 * [jwcdg](https://gitlab.com/nats/jwcdg)
-* [German Universal Dependency Treebank](https://github.com/UniversalDependencies/UD_German-GSD/tree/master)
 * [ParZu](https://github.com/rsennrich/parzu)
 * [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml)
 
@@ -105,11 +111,6 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 #### Psycholinguistics
 
 * [Noun Associations for German](http://www.psycholing.es.uni-tuebingen.de/nag/index.php)
-
-
-#### Treebanks
-
-*[TIGER Corpus](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/tiger.en.html)
 
 
 ## Speech NLP
