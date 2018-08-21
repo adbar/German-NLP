@@ -10,6 +10,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### General-purpose
 
+* [Araneum Germanicum](http://aranea.juls.savba.sk/aranea_about/_germanicum.html)
 * [COW](http://corporafromtheweb.org/category/corpora/german/)
 * [DWDS](https://dwds.de)
 * [IDS Corpora](http://www1.ids-mannheim.de/kl/projekte/korpora)
@@ -20,8 +21,11 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [Deutsches Textarchiv](https://deutschestextarchiv.de/)
 * [German Political Speeches Corpus](http://purl.org/corpus/german-speeches)
+* [Open Speech Data Corpus](http://voxforge.org/home/forums/other-languages/german/open-speech-data-corpus-for-german)
 * [CLARIN-D list](https://www.clarin-d.net/en/corpora)
+* [Corpora at the IMS](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/index.en.html)
 * [CorpusExplorer's list of corpora](https://notes.jan-oliver-ruediger.de/korpora/)
+* [ZAS list](http://www.zas.gwz-berlin.de/katalog00100.html?&L=1)
 
 
 ### Learner/Error Corpora
@@ -29,9 +33,17 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [C-WEP](http://lingured.info/linguistic-resources/cwep/)
 
 
+## Parallel corpora
+
+* [Linguatools Webcrawl German-English 2015](http://linguatools.org/tools/corpora/webcrawl-parallel-corpus-german-english-2015/)
+* [MuchMore Springer Bilingual Corpus](http://muchmore.dfki.de/resources1.htm)
+
+
+<!---
 ### Data acquisition
 
 * []()
+--->
 
 
 ## Linguistic processing/annotation
@@ -73,6 +85,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 #### POS-tagging
 
 * [clevertagger](https://github.com/rsennrich/clevertagger)
+* [flair](https://github.com/zalandoresearch/flair)
 * moot
 * [pattern.de](https://www.clips.uantwerpen.be/pages/pattern-de)
 * [RFTagger](http://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/)
@@ -91,6 +104,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 #### Word embeddings and senses
 
+* [disco (semantic similarity)](https://github.com/linguatools/disco)
 * [GermaNet](http://www.sfs.uni-tuebingen.de/GermaNet/)
    * [pygermanet](https://github.com/wroberts/pygermanet)
 * [GermanWordEmbeddings](https://github.com/devmount/GermanWordEmbeddings)
@@ -105,7 +119,9 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 #### Named Entity Recognition
 
+* [flair](https://github.com/zalandoresearch/flair)
 * [GermaNER](https://github.com/tudarmstadt-lt/GermaNER)
+
 
 
 #### Psycholinguistics
@@ -115,6 +131,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ## Speech NLP
 
+* [BAS ressources](http://www.bas.uni-muenchen.de/Bas/BasSpeechresourceseng.html)
 * [Database for Spoken German (IDS Mannheim)](https://dgd.ids-mannheim.de/dgd/pragdb.dgd_extern.welcome)
 * [(D)iscourse (I)nformation (R)adio (N)ews (D)atabase for (L)inguistic Analysis ](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/dirndl.en.html)
 
