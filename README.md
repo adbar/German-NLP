@@ -38,17 +38,17 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [OpinionSpam](https://github.com/hdaSprachtechnologie/OpinionSpam)
 
 
-## Parallel corpora
+### Parallel corpora
 
 * [Linguatools Webcrawl German-English 2015](http://linguatools.org/tools/corpora/webcrawl-parallel-corpus-german-english-2015/)
 * [MuchMore Springer Bilingual Corpus](http://muchmore.dfki.de/resources1.htm)
 
 
-<!---
 ### Data acquisition
 
-* []()
---->
+* [bundestag](https://github.com/bundestag)
+* [german-reddit](https://github.com/adbar/german-reddit)
+* [news-crawler](https://github.com/theSoenke/news-crawler)
 
 
 ## Linguistic processing/annotation
@@ -61,6 +61,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Mate Tools](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/matetools.en.html)
 * [spaCy](https://github.com/explosion/spaCy)
 * [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
+* [textblob-de](https://github.com/markuskiller/textblob-de)
+
 
 #### Treebanks
 
@@ -73,6 +75,18 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [SoMaJo](https://github.com/tsproisl/SoMaJo)
 * [waste](http://kaskade.dwds.de/waste/)
+* [german-abbreviations](https://github.com/jfilter/german-abbreviations)
+
+
+### Stemming
+
+* [CISTEM](https://github.com/LeonieWeissweiler/CISTEM)
+
+#### Lemmatization
+
+* [germalemma](https://github.com/WZBSocialScienceCenter/germalemma)
+   * [IWNLP](https://github.com/Liebeck/IWNLP)
+* [spacy-iwnlp](https://github.com/Liebeck/spacy-iwnlp)
 
 
 #### Morphological analysis
@@ -123,10 +137,21 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [sensegram](https://github.com/tudarmstadt-lt/sensegram)
 
 
+#### GermEval
+
+* [GermEval-2018 data](https://github.com/uds-lsv/GermEval-2018-Data)
+
+* [germeval-rug](https://github.com/malvinanissim/germeval-rug)
+* [jpadillamontani/germeval2018](https://github.com/jpadillamontani/germeval2018)
+* [uhh-lt/GermEval2017-Baseline](https://github.com/uhh-lt/GermEval2017-Baseline)
+
+
 #### Sentiment detection
 
 * [GermanPolarityClues](http://www.ulliwaltinger.de/sentiment/)
 * [SentimentWortschatz](http://wortschatz.uni-leipzig.de/en/download/)
+* [spacy-sentiws](https://github.com/Liebeck/spacy-sentiws)
+* [SpinningBytes Swiss German Corpus](https://github.com/spinningbytes/SB-CH)
 
 
 #### Named Entity Recognition
@@ -135,6 +160,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [GermaNER](https://github.com/tudarmstadt-lt/GermaNER)
 * [LSTM+CRF+FastText with models for (historic) German](https://github.com/riedlma/sequence_tagging)
 * [ner-corpora](https://github.com/EuropeanaNewspapers/ner-corpora)
+* [(Faruqui & Pado 2010)](https://nlpado.de/~sebastian/software/ner_german.shtml)
 
 
 #### Psycholinguistics
@@ -147,6 +173,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [BAS ressources](http://www.bas.uni-muenchen.de/Bas/BasSpeechresourceseng.html)
 * [Database for Spoken German (IDS Mannheim)](https://dgd.ids-mannheim.de/dgd/pragdb.dgd_extern.welcome)
 * [(D)iscourse (I)nformation (R)adio (N)ews (D)atabase for (L)inguistic Analysis ](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/dirndl.en.html)
+* [kaldi-tuda-de](https://github.com/uhh-lt/kaldi-tuda-de)
 
 
 ## Machine Translation
@@ -190,6 +217,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [GitHub topic corpus-linguistics](https://github.com/topics/corpus-linguistics)
 * [GitHub topic nlp](https://github.com/topics/nlp)
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
+* [NLP-progress](https://github.com/sebastianruder/NLP-progress)
 * [/r/LanguageTechnology/](https://www.reddit.com/r/LanguageTechnology/)
 
 
