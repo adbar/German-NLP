@@ -4,7 +4,7 @@ Curated list of open-access/open-source/off-the-shelf resources and tools develo
 
 Resources and tools which can be used either off-the-shelf or with minor adjustments and which are maintained are primarily chosen for this list. It is deliberately biased in terms of usability and user-friendliness.
 
-Pull requests and suggestions are welcome! See [contributing guidelines](contributing.md)
+Pull requests and suggestions are welcome! See [contributing guidelines](contributing.md).
 
 ## Corpora
 
@@ -86,7 +86,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [SMOR](http://www.cis.uni-muenchen.de/~schmid/tools/SMOR/)
 
 
-#### Tokenization
+#### Normalization
+
 * [CAB](http://www.deutschestextarchiv.de/cab)
 
 
