@@ -35,6 +35,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Learner/Error Corpora
 
 * [C-WEP](http://lingured.info/linguistic-resources/cwep/)
+* [OpinionSpam](https://github.com/hdaSprachtechnologie/OpinionSpam)
 
 
 ## Parallel corpora
@@ -83,6 +84,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [MarMoT](http://cistern.cis.lmu.de/marmot/)
 * [Morphy](http://morphy.wolfganglezius.de/)
 * [morphisto](https://code.google.com/archive/p/morphisto/)
+* [SECOS (unsupervised compound splitter)](https://github.com/riedlma/SECOS)
 * [SMOR](http://www.cis.uni-muenchen.de/~schmid/tools/SMOR/)
 
 
@@ -117,6 +119,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [GermaNet](http://www.sfs.uni-tuebingen.de/GermaNet/)
    * [pygermanet](https://github.com/wroberts/pygermanet)
 * [GermanWordEmbeddings](https://github.com/devmount/GermanWordEmbeddings)
+* [Open German WordNet](https://github.com/hdaSprachtechnologie/odenet)
 * [sensegram](https://github.com/tudarmstadt-lt/sensegram)
 
 
@@ -130,6 +133,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [flair](https://github.com/zalandoresearch/flair)
 * [GermaNER](https://github.com/tudarmstadt-lt/GermaNER)
+* [LSTM+CRF+FastText with models for (historic) German](https://github.com/riedlma/sequence_tagging)
+* [ner-corpora](https://github.com/EuropeanaNewspapers/ner-corpora)
 
 
 #### Psycholinguistics
