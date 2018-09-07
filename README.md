@@ -50,13 +50,13 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 #### Frameworks
 
+* [CLARIN Language Resource Switchboard](https://switchboard.clarin.eu/#/)
 * [CLARIN-D web tools](https://www.clarin-d.net/en/analysing)
 * [CorpusExplorer](http://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/)
 * [DKPro](https://dkpro.github.io)
 * [Mate Tools](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/matetools.en.html)
 * [spaCy](https://github.com/explosion/spaCy)
 * [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
-
 
 #### Treebanks
 
@@ -96,6 +96,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 #### Syntactical annotation/parsing
 
+* [Berkeley Parser](https://github.com/slavpetrov/berkeleyparser)
 * [BitPar](http://www.cis.uni-muenchen.de/~schmid/tools/BitPar/)
 * [jwcdg](https://gitlab.com/nats/jwcdg)
 * [ParZu](https://github.com/rsennrich/parzu)
@@ -123,7 +124,6 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [GermaNER](https://github.com/tudarmstadt-lt/GermaNER)
 
 
-
 #### Psycholinguistics
 
 * [Noun Associations for German](http://www.psycholing.es.uni-tuebingen.de/nag/index.php)
@@ -144,10 +144,14 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [Tools and corpora for summarization of German texts](https://github.com/AIPHES)
 
+## Coreference resolution
+* [CorZu](https://github.com/dtuggener/CorZu)
+
 
 ## Standards
 
 * [DTA Basisformat](http://www.deutschestextarchiv.de/doku/basisformat/)
+* [ISO TC 37 SC 4](https://www.iso.org/committee/297592.html)
 
 ## Industry/Applications
 
