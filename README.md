@@ -17,9 +17,13 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Leipzig Corpora Collection](http://wortschatz.uni-leipzig.de/en/download/)
 
 
-### Specialized
+### Historical
 
 * [Deutsches Textarchiv](https://deutschestextarchiv.de/)
+
+
+### Specialized
+
 * [German Political Speeches Corpus](http://purl.org/corpus/german-speeches)
 * [Open Speech Data Corpus](http://voxforge.org/home/forums/other-languages/german/open-speech-data-corpus-for-german)
 * [CLARIN-D list](https://www.clarin-d.net/en/corpora)
@@ -50,7 +54,6 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 #### Frameworks
 
-* [CLARIN Language Resource Switchboard](https://switchboard.clarin.eu/#/)
 * [CLARIN-D web tools](https://www.clarin-d.net/en/analysing)
 * [CorpusExplorer](http://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/)
 * [DKPro](https://dkpro.github.io)
@@ -73,6 +76,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 #### Morphological analysis
 
+* [CharSplit](https://github.com/dtuggener/CharSplit)
 * [DEMorphy](https://github.com/DuyguA/DEMorphy)
 * [HypheNN-de](https://github.com/msiemens/HypheNN-de)
 * [jwordsplitter](https://github.com/danielnaber/jwordsplitter)
@@ -80,6 +84,10 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Morphy](http://morphy.wolfganglezius.de/)
 * [morphisto](https://code.google.com/archive/p/morphisto/)
 * [SMOR](http://www.cis.uni-muenchen.de/~schmid/tools/SMOR/)
+
+
+#### Tokenization
+* [CAB](http://www.deutschestextarchiv.de/cab)
 
 
 #### POS-tagging
