@@ -56,6 +56,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Mate Tools](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/matetools.en.html)
 * [spaCy](https://github.com/explosion/spaCy)
 * [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
+* [WebLicht](https://weblicht.sfs.uni-tuebingen.de/weblichtwiki/index.php/Main_Page)
+* [CLARIN Language Resource Switchboard](https://switchboard.clarin.eu/#/)
 
 
 #### Treebanks
@@ -100,6 +102,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [jwcdg](https://gitlab.com/nats/jwcdg)
 * [ParZu](https://github.com/rsennrich/parzu)
 * [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml)
+* [Berkeley-Parser](https://github.com/slavpetrov/berkeleyparser)
 
 
 #### Word embeddings and senses
@@ -148,6 +151,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ## Standards
 
 * [DTA Basisformat](http://www.deutschestextarchiv.de/doku/basisformat/)
+* [ISO TC 37 SC 4](https://www.iso.org/committee/297592.html)
 
 ## Industry/Applications
 
