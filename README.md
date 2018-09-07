@@ -85,8 +85,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 #### Lemmatization
 
 * [germalemma](https://github.com/WZBSocialScienceCenter/germalemma)
-   * [IWNLP](https://github.com/Liebeck/IWNLP)
-* [spacy-iwnlp](https://github.com/Liebeck/spacy-iwnlp)
+* [IWNLP](https://github.com/Liebeck/IWNLP)
+   * [spacy-iwnlp](https://github.com/Liebeck/spacy-iwnlp)
 
 
 #### Morphological analysis
@@ -140,7 +140,6 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 #### GermEval
 
 * [GermEval-2018 data](https://github.com/uds-lsv/GermEval-2018-Data)
-
 * [germeval-rug](https://github.com/malvinanissim/germeval-rug)
 * [jpadillamontani/germeval2018](https://github.com/jpadillamontani/germeval2018)
 * [uhh-lt/GermEval2017-Baseline](https://github.com/uhh-lt/GermEval2017-Baseline)
