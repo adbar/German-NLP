@@ -85,7 +85,6 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 #### POS-tagging
 
 * [clevertagger](https://github.com/rsennrich/clevertagger)
-* [flair](https://github.com/zalandoresearch/flair)
 * moot
 * [pattern.de](https://www.clips.uantwerpen.be/pages/pattern-de)
 * [RFTagger](http://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/)
