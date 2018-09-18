@@ -20,11 +20,16 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Historical
 
 * [Deutsches Textarchiv](https://deutschestextarchiv.de/)
+* [Elektronische Texte (Thomas Gloning)](http://www.staff.uni-giessen.de/gloning/etexte.htm)
+* [German Drama Corpus](https://github.com/dracor-org/gerdracor)
+* [Referenzkorpus Mittelhochdeutsch (1050-1350)](https://www.ruhr-uni-bochum.de/wegera/rem/index.htm)
+* [Referenzkorpus Frühneuhochdeutsch (1350-1650)](https://www.ruhr-uni-bochum.de/wegera/ref/index.htm)
 
 
 ### Specialized
 
 * [German Political Speeches Corpus](http://purl.org/corpus/german-speeches)
+* [One Million Posts Corpus](https://ofai.github.io/million-post-corpus/)
 * [Open Speech Data Corpus](http://voxforge.org/home/forums/other-languages/german/open-speech-data-corpus-for-german)
 * [CLARIN-D list](https://www.clarin-d.net/en/corpora)
 * [Corpora at the IMS](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/index.en.html)
@@ -47,6 +52,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Data acquisition
 
 * [bundestag](https://github.com/bundestag)
+* [DKPro C4Corpus](https://github.com/dkpro/dkpro-c4corpus)
 * [german-reddit](https://github.com/adbar/german-reddit)
 * [news-crawler](https://github.com/theSoenke/news-crawler)
 
@@ -76,6 +82,12 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [SoMaJo](https://github.com/tsproisl/SoMaJo)
 * [waste](http://kaskade.dwds.de/waste/)
 * [german-abbreviations](https://github.com/jfilter/german-abbreviations)
+
+
+#### Word lists
+
+* [German Compound Database](https://www.webcorpora.org/opendata/gecodb/)
+* [german nouns from Wiktionary](https://github.com/gambolputty/german-nouns)
 
 
 ### Stemming
@@ -132,6 +144,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [disco (semantic similarity)](https://github.com/linguatools/disco)
 * [GermaNet](http://www.sfs.uni-tuebingen.de/GermaNet/)
    * [pygermanet](https://github.com/wroberts/pygermanet)
+* [german2vec](https://github.com/Bachfischer/german2vec)
 * [GermanWordEmbeddings](https://github.com/devmount/GermanWordEmbeddings)
 * [Open German WordNet](https://github.com/hdaSprachtechnologie/odenet)
 * [sensegram](https://github.com/tudarmstadt-lt/sensegram)
@@ -169,9 +182,12 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ## Speech NLP
 
+* [Archiv für gesprochenes Deutsch](http://agd.ids-mannheim.de/korpus_index.shtml)
 * [BAS ressources](http://www.bas.uni-muenchen.de/Bas/BasSpeechresourceseng.html)
+* [Bochumer Korpus der gesprochenen Sprache im Ruhrgebiet](https://www.ruhr-uni-bochum.de/kgsr/)
 * [Database for Spoken German (IDS Mannheim)](https://dgd.ids-mannheim.de/dgd/pragdb.dgd_extern.welcome)
 * [(D)iscourse (I)nformation (R)adio (N)ews (D)atabase for (L)inguistic Analysis ](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/dirndl.en.html)
+* [Hamburger Zentrum für Sprachkorpora](https://corpora.uni-hamburg.de/hzsk/)
 * [kaldi-tuda-de](https://github.com/uhh-lt/kaldi-tuda-de)
 
 
@@ -184,6 +200,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Tools and corpora for summarization of German texts](https://github.com/AIPHES)
 
 ## Coreference resolution
+
 * [CorZu](https://github.com/dtuggener/CorZu)
 
 
@@ -199,6 +216,10 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ## Tutorials
 
 * [deeplearning4nlp-tutorial](https://github.com/UKPLab/deeplearning4nlp-tutorial)
+
+## Evaluation
+
+* [Evaluation of different NLP toolkits](https://github.com/goerlitz/nlp-german)
 
 
 ## More information
