@@ -6,6 +6,25 @@ Resources and tools which can be used either off-the-shelf or with minor adjustm
 
 Pull requests and suggestions are welcome! See [contributing guidelines](contributing.md).
 
+
+## Table of Contents
+
+- [Corpora](#Corpora)
+- [Linguistic processing and annotation](#Linguistic-processing-and-annotation)
+   - [Frameworks](#Frameworks)
+   - [Treebanks](#Treebanks)
+   - [Tokenization](#Tokenization)
+   - [Lemmatization](#Lemmatization)
+   - [Morphological analysis](#Morphological-analysis)
+   - [POS-tagging](#POS-tagging)
+   - [Syntactical parsing](#Syntactical-parsing)
+   - [Word embeddings and senses](#Word-embeddings-and-senses)
+   - [Sentiment detection](#Sentiment-detection)
+   - [Named Entity Recognition](#Named-Entity-Recognition)
+- [Speech NLP](#Speech-NLP)
+- [More lists](#More-lists)
+
+
 ## Corpora
 
 ### General-purpose
@@ -15,38 +34,52 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [DWDS](https://dwds.de)
 * [IDS Corpora](http://www1.ids-mannheim.de/kl/projekte/korpora)
 * [Leipzig Corpora Collection](http://wortschatz.uni-leipzig.de/en/download/)
+* [SdeWaC](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/sdewac.en.html)
 
 
-### Historical
+#### Historical
 
 * [Deutsches Textarchiv](https://deutschestextarchiv.de/)
 * [Elektronische Texte (Thomas Gloning)](http://www.staff.uni-giessen.de/gloning/etexte.htm)
 * [German Drama Corpus](https://github.com/dracor-org/gerdracor)
 * [Referenzkorpus Mittelhochdeutsch (1050-1350)](https://www.ruhr-uni-bochum.de/wegera/rem/index.htm)
+* [Referenzkorpus Mittelniederdeutsch/Niederrheinisch (1200-1650)](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/text-corpus:ren-0.6)
 * [Referenzkorpus Frühneuhochdeutsch (1350-1650)](https://www.ruhr-uni-bochum.de/wegera/ref/index.htm)
 
 
-### Specialized
+#### Specialized
 
+* [Dortmunder Chat Korpus](http://www.chatkorpus.tu-dortmund.de/)
 * [German Political Speeches Corpus](http://purl.org/corpus/german-speeches)
+* [GermaParl (Bundestag)](https://github.com/PolMine/GermaParlTEI)
 * [One Million Posts Corpus](https://ofai.github.io/million-post-corpus/)
 * [Open Speech Data Corpus](http://voxforge.org/home/forums/other-languages/german/open-speech-data-corpus-for-german)
+
+
+#### Swiss German
+
+* [ArchiMob Corpus](https://www.spur.uzh.ch/en/departments/research/textgroup/ArchiMob.html)
+* [NOAH's Corpus of Swiss German Dialects](http://kitt.cl.uzh.ch/kitt/noah/NOAHsCorpusOfSwissGermanDialects_Release2.1.zip)
+* [SpinningBytes Swiss German Sentiment Corpus](https://github.com/spinningbytes/SB-CH)
+* [Swiss SMS Corpus](http://www.sms4science.ch/Main/WebHome)
+
+
+#### Lists
+
 * [CLARIN-D list](https://www.clarin-d.net/en/corpora)
 * [Corpora at the IMS](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/index.en.html)
 * [CorpusExplorer's list of corpora](https://notes.jan-oliver-ruediger.de/korpora/)
+* [Korpora am IMS](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/index.html)
+* [Parallel corpora (see below)](#parallel-corpora)
+* [Treebanks (see below)](#treebanks)
 * [ZAS list](http://www.zas.gwz-berlin.de/katalog00100.html?&L=1)
 
 
-### Learner/Error Corpora
+#### Learner/Error Corpora
 
 * [C-WEP](http://lingured.info/linguistic-resources/cwep/)
+* [Falko](https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/forschung/falko)
 * [OpinionSpam](https://github.com/hdaSprachtechnologie/OpinionSpam)
-
-
-### Parallel corpora
-
-* [Linguatools Webcrawl German-English 2015](http://linguatools.org/tools/corpora/webcrawl-parallel-corpus-german-english-2015/)
-* [MuchMore Springer Bilingual Corpus](http://muchmore.dfki.de/resources1.htm)
 
 
 ### Data acquisition
@@ -57,7 +90,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [news-crawler](https://github.com/theSoenke/news-crawler)
 
 
-## Linguistic processing/annotation
+## Linguistic processing and annotation
 
 #### Frameworks
 
@@ -73,8 +106,17 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 #### Treebanks
 
 * [German Universal Dependency Treebank](https://github.com/UniversalDependencies/UD_German-GSD/tree/master)
+* [Hamburg Dependency Treebank](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/treebank:hdt)
+* [NEGRA](http://www.coli.uni-saarland.de/projects/sfb378/negra-corpus/)
 * [TIGER Corpus](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/tiger.en.html)
+   * [SALSA (role semantic annotation)](http://www.coli.uni-saarland.de/projects/salsa/corpus/)
+   * [Tiger2Dep (dependency parses)](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/Tiger2Dep.en.html)
 * [TüBa-D/Z](http://www.sfs.uni-tuebingen.de/en/ascl/resources/corpora/tueba-dz.html)
+
+
+#### Annotation
+
+* [corpus-tools.org](http://corpus-tools.org/home/)
 
 
 #### Tokenization
@@ -86,8 +128,11 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 #### Word lists
 
+* [DeReWo](http://www1.ids-mannheim.de/kl/projekte/methoden/derewo.html)
 * [German Compound Database](https://www.webcorpora.org/opendata/gecodb/)
-* [german nouns from Wiktionary](https://github.com/gambolputty/german-nouns)
+* [German nouns from Wiktionary](https://github.com/gambolputty/german-nouns)
+* [German word list for GNU Aspell](https://sourceforge.net/projects/germandict/files/)
+* [OpenThesaurus](https://www.openthesaurus.de/about/download)
 
 
 ### Stemming
@@ -105,6 +150,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [CharSplit](https://github.com/dtuggener/CharSplit)
 * [DEMorphy](https://github.com/DuyguA/DEMorphy)
+* [Durm Lemmatizer](http://www.semanticsoftware.info/durm-german-lemmatizer)
 * [HypheNN-de](https://github.com/msiemens/HypheNN-de)
 * [jwordsplitter](https://github.com/danielnaber/jwordsplitter)
 * [MarMoT](http://cistern.cis.lmu.de/marmot/)
@@ -122,7 +168,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 #### POS-tagging
 
 * [clevertagger](https://github.com/rsennrich/clevertagger)
-* moot
+* [moot](http://kaskade.dwds.de/~jurish/projects/moot)
 * [pattern.de](https://www.clips.uantwerpen.be/pages/pattern-de)
 * [RFTagger](http://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/)
 * [SoMeWeTa](https://github.com/tsproisl/SoMeWeTa)
@@ -130,11 +176,12 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
 
 
-#### Syntactical annotation/parsing
+#### Syntactical parsing
 
 * [Berkeley Parser](https://github.com/slavpetrov/berkeleyparser)
 * [BitPar](http://www.cis.uni-muenchen.de/~schmid/tools/BitPar/)
-* [jwcdg](https://gitlab.com/nats/jwcdg)
+* [CDG](https://nats-www.informatik.uni-hamburg.de/CDG/DownloadPage)
+   * [jwcdg](https://gitlab.com/nats/jwcdg)
 * [ParZu](https://github.com/rsennrich/parzu)
 * [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml)
 
@@ -148,6 +195,13 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [GermanWordEmbeddings](https://github.com/devmount/GermanWordEmbeddings)
 * [Open German WordNet](https://github.com/hdaSprachtechnologie/odenet)
 * [sensegram](https://github.com/tudarmstadt-lt/sensegram)
+* [UBY Linked Lexical Resource](https://dkpro.github.io/dkpro-uby/)
+
+
+#### Semantic analysis datasets
+
+* [schulteimwalde.de/resources.html](http://www.schulteimwalde.de/resources.html)
+* [UKP Darmstadt data list](https://www.informatik.tu-darmstadt.de/ukp/research_6/data/index.en.jsp)
 
 
 #### GermEval
@@ -172,7 +226,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [GermaNER](https://github.com/tudarmstadt-lt/GermaNER)
 * [LSTM+CRF+FastText with models for (historic) German](https://github.com/riedlma/sequence_tagging)
 * [ner-corpora](https://github.com/EuropeanaNewspapers/ner-corpora)
-* [(Faruqui & Pado 2010)](https://nlpado.de/~sebastian/software/ner_german.shtml)
+* [(Faruqui & Pado 2010) Compenents and evaluation data](https://nlpado.de/~sebastian/software/ner_german.shtml)
 
 
 #### Psycholinguistics
@@ -194,6 +248,13 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ## Machine Translation
 
 * []()
+
+
+#### Parallel corpora
+
+* [Linguatools Webcrawl German-English 2015](http://linguatools.org/tools/corpora/webcrawl-parallel-corpus-german-english-2015/)
+* [MuchMore Springer Bilingual Corpus](http://muchmore.dfki.de/resources1.htm)
+
 
 ## Summarization
 
@@ -222,7 +283,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Evaluation of different NLP toolkits](https://github.com/goerlitz/nlp-german)
 
 
-## More information
+## More lists
 
 #### German
 
@@ -251,6 +312,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
 * [M. Weisser's list of NLP/Computational Linguistics Resources](http://martinweisser.org/corpora_site/comp_ling_resources.html)
 * [NLP tools (Saarland University)](http://www.coli.uni-saarland.de/~csporled/page.php?id=tools)
+* [Portal Computerlinguistik](http://www.computerlinguistik.org/portal/portal.html?s=Ressourcen)
+* [W. Roberts' Computational Linguistics Links](http://amor.cms.hu-berlin.de/~robertsw/links.html)
 
 
 ## License
