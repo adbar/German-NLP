@@ -121,6 +121,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [CLARIN-D web tools](https://www.clarin-d.net/en/analysing)
 * [CorpusExplorer](http://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/)
 * [DKPro](https://dkpro.github.io)
+* [flair](https://github.com/zalandoresearch/flair)
 * [Mate Tools](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/matetools.en.html)
 * [spaCy](https://github.com/explosion/spaCy)
 * [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
@@ -140,7 +141,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Annotation
 
-* [corpus-tools.org](http://corpus-tools.org/home/)
+* [cora](https://github.com/comphist/cora)
+* [corpus-tools.org (HU Berlin)](http://corpus-tools.org/home/)
 
 
 ### Standards
@@ -162,11 +164,13 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [CISTEM](https://github.com/LeonieWeissweiler/CISTEM)
 
+
 ### Lemmatization
 
 * [germalemma](https://github.com/WZBSocialScienceCenter/germalemma)
 * [IWNLP](https://github.com/Liebeck/IWNLP)
    * [spacy-iwnlp](https://github.com/Liebeck/spacy-iwnlp)
+
 
 ### Morphological analysis
 
@@ -185,6 +189,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Normalization
 
 * [CAB](http://www.deutschestextarchiv.de/cab)
+* [norma](https://github.com/comphist/norma)
 
 
 ### POS-tagging
@@ -213,6 +218,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [flair](https://github.com/zalandoresearch/flair)
 * [GermaNER](https://github.com/tudarmstadt-lt/GermaNER)
 * [LSTM+CRF+FastText with models for (historic) German](https://github.com/riedlma/sequence_tagging)
+* [microNER](https://uhh-lt.github.io/microNER/)
 * [ner-corpora](https://github.com/EuropeanaNewspapers/ner-corpora)
 * [(Faruqui & Pado 2010) Compenents and evaluation data](https://nlpado.de/~sebastian/software/ner_german.shtml)
 
@@ -231,7 +237,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Datasets
 
-* [HeiST – Heidelberg Sentiment Treebank](http://www.cl.uni-heidelberg.de/~versley/HeiST/)
+
 * [schulteimwalde.de/resources.html](http://www.schulteimwalde.de/resources.html)
 * [UKP Darmstadt data list](https://www.informatik.tu-darmstadt.de/ukp/research_6/data/index.en.jsp)
 
@@ -245,15 +251,32 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [GermanWordEmbeddings](https://github.com/devmount/GermanWordEmbeddings)
 * [Open German WordNet](https://github.com/hdaSprachtechnologie/odenet)
 * [sensegram](https://github.com/tudarmstadt-lt/sensegram)
+* [SpinningBytes word embeddings (tweets)](https://www.spinningbytes.com/resources/wordembeddings/)
 * [UBY Linked Lexical Resource](https://dkpro.github.io/dkpro-uby/)
+
+
+### Sentiment analysis datasets / polarity clues
+
+* [GermanPolarityClues](http://www.ulliwaltinger.de/sentiment/)
+* [HeiST – Heidelberg Sentiment Treebank](http://www.cl.uni-heidelberg.de/~versley/HeiST/)
+* [Sentiment Lexicon (Univ. Zurich)](http://bics.sentimental.li/files/8614/2462/8150/german.lex)
+* [SentimentWortschatz](http://wortschatz.uni-leipzig.de/en/download/)
+* [SpinningBytes Swiss German Sentiment Corpus](https://github.com/spinningbytes/SB-CH)
 
 
 ### Sentiment detection
 
-* [GermanPolarityClues](http://www.ulliwaltinger.de/sentiment/)
-* [SentimentWortschatz](http://wortschatz.uni-leipzig.de/en/download/)
 * [spacy-sentiws](https://github.com/Liebeck/spacy-sentiws)
-* [SpinningBytes Swiss German Corpus](https://github.com/spinningbytes/SB-CH)
+
+
+### GermEval
+
+* [Official GermEval tools list](https://projects.fzai.h-da.de/iggsa/resources-tools-and-literature/)
+* [GermEval-2018 data](https://github.com/uds-lsv/GermEval-2018-Data)
+* [germeval-rug](https://github.com/malvinanissim/germeval-rug)
+* [IWG_hatespeech_public](https://github.com/UCSM-DUE/IWG_hatespeech_public)
+* [jpadillamontani/germeval2018](https://github.com/jpadillamontani/germeval2018)
+* [uhh-lt/GermEval2017-Baseline](https://github.com/uhh-lt/GermEval2017-Baseline)
 
 
 ### Coreference resolution
@@ -264,14 +287,6 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Summarization
 
 * [Tools and corpora for summarization of German texts](https://github.com/AIPHES)
-
-
-### GermEval
-
-* [GermEval-2018 data](https://github.com/uds-lsv/GermEval-2018-Data)
-* [germeval-rug](https://github.com/malvinanissim/germeval-rug)
-* [jpadillamontani/germeval2018](https://github.com/jpadillamontani/germeval2018)
-* [uhh-lt/GermEval2017-Baseline](https://github.com/uhh-lt/GermEval2017-Baseline)
 
 
 ### Psycholinguistics
