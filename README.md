@@ -42,11 +42,12 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
    - [Psycholinguistics](#Psycholinguistics)
 - [Speech NLP](#Speech-NLP)
 - [Machine Translation](#Machine-Translation)
-- [Tutorials](#Tutorials)
+- [Teaching resources and tutorials](#Teaching-resources-and-tutorials)
 - [More lists](#More-lists)
    - [German](#German)
    - [General](#General)
    - [Comparable lists](#Comparable-lists)
+   - [Larger institutional GitHub groups](#Larger-institutional-GitHub-groups)
 
 
 ## Corpora
@@ -74,6 +75,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Specialized
 
 * [arg-microtexts](http://angcl.ling.uni-potsdam.de/resources/argmicro.html)
+* [auto-hMDS (multi-document summarization)](https://github.com/AIPHES/auto-hMDS)
 * [Dortmunder Chat Korpus](http://www.chatkorpus.tu-dortmund.de/)
 * [German Political Speeches Corpus](http://purl.org/corpus/german-speeches)
 * [GermaParl (Bundestag)](https://github.com/PolMine/GermaParlTEI)
@@ -160,6 +162,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [cora](https://github.com/comphist/cora)
 * [corpus-tools.org (HU Berlin)](http://corpus-tools.org/home/)
 * [WebAnno](https://webanno.github.io/webanno/)
+   * [INCEpTION](https://inception-project.github.io/)
 
 
 ### Standards
@@ -292,7 +295,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [spacy-sentiws](https://github.com/Liebeck/spacy-sentiws)
 
 
-### GermEval
+### GermEval (category to improve)
 
 * [Official GermEval tools list](https://projects.fzai.h-da.de/iggsa/resources-tools-and-literature/)
 * [GermEval 2015 data (Lexical Substitution)](https://sites.google.com/site/germeval2015/)
@@ -302,13 +305,15 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [IWG_hatespeech_public](https://github.com/UCSM-DUE/IWG_hatespeech_public)
 * [jpadillamontani/germeval2018](https://github.com/jpadillamontani/germeval2018)
 * [uhh-lt/GermEval2017-Baseline](https://github.com/uhh-lt/GermEval2017-Baseline)
+* [UKP embeddings for GermEval 2017](https://github.com/UKPLab/germeval2017-sentiment-detection)
 
 
 ### Discourse
 
 * [CorZu (coreference resolution)](https://github.com/dtuggener/CorZu)
 * [Discourse Segmenter](https://github.com/WladimirSidorenko/DiscourseSegmenter)
-
+* [Frame Identification](https://github.com/UKPLab/naacl18-multimodal-frame-identification)
+* [PropS-DE (proposition structures)](https://github.com/UKPLab/props-de)
 
 
 ### Summarization
@@ -344,7 +349,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 
 
-## Tutorials
+## Teaching resources and tutorials
 
 * [bubenhofer.com/korpuslinguistik/kurs/](http://www.bubenhofer.com/korpuslinguistik/kurs/)
 * [CorpusExplorer v2.0 – Seminartauglich in einem halben Tag](https://lernen-mit.jan-oliver-ruediger.de/)
@@ -356,6 +361,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### German
 
+* [CLARIN VLO (DE+public)](https://vlo.clarin.eu/search?2&fq=languageCode:code:deu&fq=licenseType:PUB)
 * [computerlinguistik.org](http://www.computerlinguistik.org/portal/portal.html?s=Ressourcen)
 * [LRE Map](http://lremap.elra.info/?&selected_facets=languageFilter_exact%3AGerman)
 * [MetaShare Language Resources](http://metashare.ilsp.gr:8080/repository/search/?q=&selected_facets=languageNameFilter_exact%3AGerman)
@@ -365,8 +371,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### General
 
-* [GitHub topic corpus-linguistics](https://github.com/topics/corpus-linguistics)
-* [GitHub topic nlp](https://github.com/topics/nlp)
+* GitHub topics [corpus-linguistics](https://github.com/topics/corpus-linguistics) & [nlp](https://github.com/topics/nlp)
 * [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
 * [NLP-progress](https://github.com/sebastianruder/NLP-progress)
 * [/r/LanguageTechnology/](https://www.reddit.com/r/LanguageTechnology/)
@@ -382,8 +387,13 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
 * [M. Weisser's list of NLP/Computational Linguistics Resources](http://martinweisser.org/corpora_site/comp_ling_resources.html)
 * [NLP tools (Saarland University)](http://www.coli.uni-saarland.de/~csporled/page.php?id=tools)
-* [Portal Computerlinguistik](http://www.computerlinguistik.org/portal/portal.html?s=Ressourcen)
 * [W. Roberts' Computational Linguistics Links](http://amor.cms.hu-berlin.de/~robertsw/links.html)
+
+
+### Larger institutional GitHub groups
+
+* [Language Technology Group, Universität Hamburg](https://github.com/uhh-lt/)
+* [Ubiquitous Knowledge Processing Lab, TU Darmstadt](https://github.com/ukplab)
 
 
 ## License
