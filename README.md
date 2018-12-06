@@ -224,6 +224,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Named Entity Recognition
 
+* [AmbiverseNLU KnowNER](https://github.com/ambiverse-nlu/ambiverse-nlu)
 * [flair](https://github.com/zalandoresearch/flair)
 * [GermaNER](https://github.com/tudarmstadt-lt/GermaNER)
 * [LSTM+CRF+FastText with models for (historic) German](https://github.com/riedlma/sequence_tagging)
