@@ -56,7 +56,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [Araneum Germanicum](http://aranea.juls.savba.sk/aranea_about/_germanicum.html)
 * [COW](http://corporafromtheweb.org/category/corpora/german/)
-* [DWDS](https://dwds.de)
+* [Digitales Wörterbuch der deutschen Sprache (DWDS)](https://dwds.de)
 * [IDS Corpora](http://www1.ids-mannheim.de/kl/projekte/korpora)
 * [Leipzig Corpora Collection](http://wortschatz.uni-leipzig.de/en/download/)
 * [SdeWaC](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/sdewac.en.html)
@@ -136,8 +136,12 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [CLARIN-D web tools](https://www.clarin-d.net/en/analysing)
 * [CorpusExplorer](http://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/)
-* [DKPro](https://dkpro.github.io)
+* [DKPro Core](https://dkpro.github.io/dkpro-core)
+* [DKPro Similarity](https://dkpro.github.io/dkpro-similarity)
+* [DKPro Text Classification (TC)](https://dkpro.github.io/dkpro-tc)
+* [DKPro Word Sense Disambiguation (WSD)](https://dkpro.github.io/dkpro-wsd)
 * [flair](https://github.com/zalandoresearch/flair)
+* [ixa pipes](http://ixa2.si.ehu.es/ixa-pipes/)
 * [Mate Tools](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/matetools.en.html)
 * [spaCy](https://github.com/explosion/spaCy)
 * [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
@@ -161,20 +165,23 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [cora](https://github.com/comphist/cora)
 * [corpus-tools.org (HU Berlin)](http://corpus-tools.org/home/)
+* [INCEpTION](https://inception-project.github.io/)
 * [WebAnno](https://webanno.github.io/webanno/)
-   * [INCEpTION](https://inception-project.github.io/)
 
 
 ### Standards
 
 * [DTA Basisformat](http://www.deutschestextarchiv.de/doku/basisformat/)
 * [ISO TC 37 SC 4](https://www.iso.org/committee/297592.html)
+* [UIMA](http://docs.oasis-open.org/uima/v1.0/os/uima-spec-os.html)
+* [UIMA CAS XMI](https://uima.apache.org/d/uimaj-current/references.html#ugr.ref.xmi)
 
 
 ## Linguistic processing
 
 ### Tokenization
 
+* [JTok](https://github.com/DFKI-MLT/JTok)
 * [SoMaJo](https://github.com/tsproisl/SoMaJo)
 * [waste](http://kaskade.dwds.de/waste/)
 * [german-abbreviations](https://github.com/jfilter/german-abbreviations)
@@ -183,6 +190,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Stemming
 
 * [CISTEM](https://github.com/LeonieWeissweiler/CISTEM)
+* [Snowball](http://snowballstem.org)
 
 
 ### Lemmatization
@@ -203,6 +211,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Morphy](http://morphy.wolfganglezius.de/)
 * [morphisto](https://code.google.com/archive/p/morphisto/)
 * [SECOS (unsupervised compound splitter)](https://github.com/riedlma/SECOS)
+* [SFST](http://www.cis.uni-muenchen.de/~schmid/tools/SFST/)
 * [SMOR](http://www.cis.uni-muenchen.de/~schmid/tools/SMOR/)
 
 
@@ -215,6 +224,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### POS-tagging
 
 * [clevertagger](https://github.com/rsennrich/clevertagger)
+* [hunpos](https://github.com/mivoq/hunpos)
 * [moot](http://kaskade.dwds.de/~jurish/projects/moot)
 * [pattern.de](https://www.clips.uantwerpen.be/pages/pattern-de)
 * [RFTagger](http://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/)
@@ -247,11 +257,13 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Industry/Applications
 
 * [German Decompounder for Apache Lucene / Apache Solr / Elasticsearch](https://github.com/uschindler/german-decompounder)
+* [LanguageTool](https://languagetool.org)
 
 
 ### Evaluation
 
 * [Evaluation of different NLP toolkits](https://github.com/goerlitz/nlp-german)
+* [DKPro Statistics](https://dkpro.github.io/dkpro-statistics)
 
 
 ## Semantic analysis
