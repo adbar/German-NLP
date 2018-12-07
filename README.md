@@ -134,6 +134,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Frameworks
 
+* [AmbiverseNLU](https://github.com/ambiverse-nlu/ambiverse-nlu)
 * [CLARIN-D web tools](https://www.clarin-d.net/en/analysing)
 * [CorpusExplorer](http://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/)
 * [DKPro](https://dkpro.github.io)
