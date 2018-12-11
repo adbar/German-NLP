@@ -67,9 +67,12 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Deutsches Textarchiv](https://deutschestextarchiv.de/)
 * [Elektronische Texte (Thomas Gloning)](http://www.staff.uni-giessen.de/gloning/etexte.htm)
 * [German Drama Corpus](https://github.com/dracor-org/gerdracor)
+* [Lesekorpus Altdeutsch](http://titus.uni-frankfurt.de/lea)
+* [Referenzkorpus Altdeutsch (750-1050)](http://www.deutschdiachrondigital.de/)
 * [Referenzkorpus Mittelhochdeutsch (1050-1350)](https://www.ruhr-uni-bochum.de/wegera/rem/index.htm)
 * [Referenzkorpus Mittelniederdeutsch/Niederrheinisch (1200-1650)](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/text-corpus:ren-0.6)
 * [Referenzkorpus Frühneuhochdeutsch (1350-1650)](https://www.ruhr-uni-bochum.de/wegera/ref/index.htm)
+* [Thesaurus Indogermanischer Text- und Sprachmaterialien (TITUS)](http://titus.uni-frankfurt.de/indexd.htm?/texte/texte.htm)
 
 
 ### Specialized
@@ -96,6 +99,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 #### Learner and Error Corpora
 
 * [C-WEP](http://lingured.info/linguistic-resources/cwep/)
+* [DysList (list of dyslexic errors)](https://github.com/Rauschii/DysListGerman)
 * [Falko](https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/forschung/falko)
 * [OpinionSpam](https://github.com/hdaSprachtechnologie/OpinionSpam)
 
@@ -106,6 +110,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [DiMLex (lexicon of German discourse markers)](https://github.com/discourse-lab/dimlex)
 * [German Compound Database](https://www.webcorpora.org/opendata/gecodb/)
 * [German nouns from Wiktionary](https://github.com/gambolputty/german-nouns)
+* [Morphological Dictionaries (DEMorphy)](https://github.com/DuyguA/german-morph-dictionaries)
 * [German Wiktionary Lexicon Graph](https://vlo.clarin.eu/record?10&count=2&docId=21.11105_47_0000-000B-D244-B&fq=collection:CEDIFOR.Lexicon&fqType=collection:or&index=0)
 * [German word list for GNU Aspell](https://sourceforge.net/projects/germandict/files/)
 * [OpenThesaurus](https://www.openthesaurus.de/about/download)
@@ -214,6 +219,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [SECOS (unsupervised compound splitter)](https://github.com/riedlma/SECOS)
 * [SFST](http://www.cis.uni-muenchen.de/~schmid/tools/SFST/)
 * [SMOR](http://www.cis.uni-muenchen.de/~schmid/tools/SMOR/)
+* [zmorge](https://github.com/rsennrich/zmorge)
 
 
 ### Normalization
@@ -253,6 +259,11 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [microNER](https://uhh-lt.github.io/microNER/)
 * [ner-corpora](https://github.com/EuropeanaNewspapers/ner-corpora)
 * [(Faruqui & Pado 2010) Components and evaluation data](https://nlpado.de/~sebastian/software/ner_german.shtml)
+
+
+### Text generation
+
+* [pypolibox](https://github.com/arne-cl/pypolibox)
 
 
 ### Industry/Applications
@@ -359,7 +370,6 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [Linguatools Webcrawl German-English 2015](http://linguatools.org/tools/corpora/webcrawl-parallel-corpus-german-english-2015/)
 * [MuchMore Springer Bilingual Corpus](http://muchmore.dfki.de/resources1.htm)
-
 
 
 ## Teaching resources and tutorials
