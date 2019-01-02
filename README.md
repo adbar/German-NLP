@@ -67,7 +67,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Deutsches Textarchiv](https://deutschestextarchiv.de/)
 * [Elektronische Texte (Thomas Gloning)](http://www.staff.uni-giessen.de/gloning/etexte.htm)
 * [German Drama Corpus](https://github.com/dracor-org/gerdracor)
-* [Lesekorpus Altdeutsch](http://titus.uni-frankfurt.de/lea)
+* [Lesekorpus Altdeutsch (750-1050)](http://titus.uni-frankfurt.de/lea)
 * [Referenzkorpus Altdeutsch (750-1050)](http://www.deutschdiachrondigital.de/)
 * [Referenzkorpus Mittelhochdeutsch (1050-1350)](https://www.ruhr-uni-bochum.de/wegera/rem/index.htm)
 * [Referenzkorpus Mittelniederdeutsch/Niederrheinisch (1200-1650)](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/text-corpus:ren-0.6)
@@ -80,6 +80,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [arg-microtexts](http://angcl.ling.uni-potsdam.de/resources/argmicro.html)
 * [auto-hMDS (multi-document summarization)](https://github.com/AIPHES/auto-hMDS)
 * [Dortmunder Chat Korpus](http://www.chatkorpus.tu-dortmund.de/)
+* [German EUROPARL data w/ NE annotation](https://nlpado.de/~sebastian/software/ner_german.shtml)
 * [German Political Speeches Corpus](http://purl.org/corpus/german-speeches)
 * [GermaParl (Bundestag)](https://github.com/PolMine/GermaParlTEI)
 * [One Million Posts Corpus](https://ofai.github.io/million-post-corpus/)
@@ -109,6 +110,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [DeReWo](http://www1.ids-mannheim.de/kl/projekte/methoden/derewo.html)
 * [DiMLex (lexicon of German discourse markers)](https://github.com/discourse-lab/dimlex)
 * [German Compound Database](https://www.webcorpora.org/opendata/gecodb/)
+* [German derivational lexicons](http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/DErivBase.html)
 * [German nouns from Wiktionary](https://github.com/gambolputty/german-nouns)
 * [Morphological Dictionaries (DEMorphy)](https://github.com/DuyguA/german-morph-dictionaries)
 * [German Wiktionary Lexicon Graph](https://vlo.clarin.eu/record?10&count=2&docId=21.11105_47_0000-000B-D244-B&fq=collection:CEDIFOR.Lexicon&fqType=collection:or&index=0)
@@ -148,7 +150,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [DKPro Word Sense Disambiguation (WSD)](https://dkpro.github.io/dkpro-wsd)
 * [flair](https://github.com/zalandoresearch/flair)
 * [ixa pipes](http://ixa2.si.ehu.es/ixa-pipes/)
-* [Mate Tools](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/matetools.en.html)
+* [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
 * [spaCy](https://github.com/explosion/spaCy)
 * [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 * [textblob-de](https://github.com/markuskiller/textblob-de)
@@ -170,8 +172,10 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Annotation
 
 * [cora](https://github.com/comphist/cora)
+* [CorefAnnotator](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/CorefAnnotator.html)
 * [corpus-tools.org (HU Berlin)](http://corpus-tools.org/home/)
 * [INCEpTION](https://inception-project.github.io/)
+* [TreeAnno](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/TreeAnno.html)
 * [WebAnno](https://webanno.github.io/webanno/)
 
 
@@ -218,7 +222,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [morphisto](https://code.google.com/archive/p/morphisto/)
 * [SECOS (unsupervised compound splitter)](https://github.com/riedlma/SECOS)
 * [SFST](http://www.cis.uni-muenchen.de/~schmid/tools/SFST/)
-* [SMOR](http://www.cis.uni-muenchen.de/~schmid/tools/SMOR/)
+* [SMOR](http://www.cis.uni-muenchen.de/~schmid/tools/SMOR/), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
 * [zmorge](https://github.com/rsennrich/zmorge)
 
 
@@ -234,7 +238,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [hunpos](https://github.com/mivoq/hunpos)
 * [moot](http://kaskade.dwds.de/~jurish/projects/moot)
 * [pattern.de](https://www.clips.uantwerpen.be/pages/pattern-de)
-* [RFTagger](http://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/)
+* [RFTagger](http://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
 * [SoMeWeTa](https://github.com/tsproisl/SoMeWeTa)
 * [TnT](http://www.coli.uni-saarland.de/~thorsten/tnt/)
 * [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
@@ -243,12 +247,15 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Syntactical parsing
 
 * [Berkeley Parser](https://github.com/slavpetrov/berkeleyparser)
-* [BitPar](http://www.cis.uni-muenchen.de/~schmid/tools/BitPar/)
+* [BitPar](http://www.cis.uni-muenchen.de/~schmid/tools/BitPar/), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
 * [CDG](https://nats-www.informatik.uni-hamburg.de/CDG/DownloadPage)
    * [jwcdg](https://gitlab.com/nats/jwcdg)
+* [IMSTrans (dependency parser)](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/imstrans.en.html)
 * [ParZu](https://github.com/rsennrich/parzu)
 * [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml)
 
+* [ICARUS (query tool)](http://hdl.handle.net/11022/1007-0000-0000-8E56-0)
+   * [ICARUS2](http://hdl.handle.net/11022/1007-0000-0007-C635-E)
 
 ### Named Entity Recognition
 
@@ -283,8 +290,10 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Datasets
 
 * [Complex Word Identification (DE, EN, ES, FR)](https://sites.google.com/view/cwisharedtask2018/home)
+* Distributional memories: [DM.de](http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/dm-de.html) [TransDM.de](http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/transdmde.html)
 * [Distributional thesauri (includes German)](https://sourceforge.net/projects/jobimtext/files/data/models/)
 * [Lexical Chains](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/lexical-chains.html)
+* [Logical metonymy database](http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/GLMD.html)
 * [schulteimwalde.de/resources.html](http://www.schulteimwalde.de/resources.html)
 * [Semantic Relations in Context](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/semreldata.html)
 * [UKP Darmstadt data list](https://www.informatik.tu-darmstadt.de/ukp/research_6/data/index.en.jsp)
@@ -319,8 +328,9 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [spacy-sentiws](https://github.com/Liebeck/spacy-sentiws)
 
 
-### GermEval (category to improve)
+### GermEval
 
+*(category to improve)*
 * [Official GermEval tools list](https://projects.fzai.h-da.de/iggsa/resources-tools-and-literature/)
 * [GermEval 2015 data (Lexical Substitution)](https://sites.google.com/site/germeval2015/)
 * [Germeval Task 2017](https://sites.google.com/view/germeval2017-absa/home)
@@ -334,9 +344,13 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Discourse
 
+* [Bilingual formality (T/V) corpus (EN/DE)](https://nlpado.de/~sebastian/data/tv_data.shtml)
+* [Bilingual FrameNet frame embeddings (EN/DE)](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/XLFrameEmbed.html)
+* [Bilingual parallel frame-semantic annotation (EN/DE)](https://nlpado.de/~sebastian/data/srl_data.shtml)
 * [CorZu (coreference resolution)](https://github.com/dtuggener/CorZu)
 * [Discourse Segmenter](https://github.com/WladimirSidorenko/DiscourseSegmenter)
 * [Frame Identification](https://github.com/UKPLab/naacl18-multimodal-frame-identification)
+* [German social media textual entailment dataset](https://www.cl.uni-heidelberg.de/~zeller/res/te-ger/index.mhtml)
 * [PropS-DE (proposition structures)](https://github.com/UKPLab/props-de)
 
 
