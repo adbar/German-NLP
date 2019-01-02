@@ -64,6 +64,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Historical
 
+* [Anselm (14th-16th centuries)](https://www.linguistics.ruhr-uni-bochum.de/anselm/access/index.en.html)
 * [Deutsches Textarchiv](https://deutschestextarchiv.de/)
 * [Elektronische Texte (Thomas Gloning)](http://www.staff.uni-giessen.de/gloning/etexte.htm)
 * [German Drama Corpus](https://github.com/dracor-org/gerdracor)
