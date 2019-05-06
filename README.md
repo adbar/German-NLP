@@ -88,6 +88,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Open Speech Data Corpus](http://voxforge.org/home/forums/other-languages/german/open-speech-data-corpus-for-german)
 * [Potsdam Commentary Corpus (PCC)](http://angcl.ling.uni-potsdam.de/resources/pcc.html)
 * [TTLab StadtWiki Corpus](https://vlo.clarin.eu/?7&fq=collection:CEDIFOR.Corpus.StadtWikis&fqType=collection:or)
+* [German Recipes Dataset](https://www.kaggle.com/sterby/german-recipes-dataset)
 
 
 #### Swiss German
