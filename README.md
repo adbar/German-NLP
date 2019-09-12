@@ -80,10 +80,12 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [arg-microtexts](http://angcl.ling.uni-potsdam.de/resources/argmicro.html)
 * [auto-hMDS (multi-document summarization)](https://github.com/AIPHES/auto-hMDS)
+* [DIRNDL -- (D)iscourse (I)nformation (R)adio (N)ews (D)atabase for (L)inguistic Analysis](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/dirndl.en.html)
 * [Dortmunder Chat Korpus](http://www.chatkorpus.tu-dortmund.de/)
 * [German EUROPARL data w/ NE annotation](https://nlpado.de/~sebastian/software/ner_german.shtml)
 * [German Political Speeches Corpus](http://purl.org/corpus/german-speeches)
 * [GermaParl (Bundestag)](https://github.com/PolMine/GermaParlTEI)
+* [GRAIN corpus -- (G)erman-(RA)dio-(IN)terviews](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/grain.html)
 * [One Million Posts Corpus](https://ofai.github.io/million-post-corpus/)
 * [Open Speech Data Corpus](http://voxforge.org/home/forums/other-languages/german/open-speech-data-corpus-for-german)
 * [Potsdam Commentary Corpus (PCC)](http://angcl.ling.uni-potsdam.de/resources/pcc.html)
@@ -108,11 +110,15 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 #### Word lists
 
+* [Analogies in German Particle Verb Meaning Shifts](http://www.ims.uni-stuttgart.de/data/pv-meaning-shift)
+* [Degree of Grammaticalization for German Prepositions](https://www.ims.uni-stuttgart.de/forschung/ressourcen/experiment-daten/gramm-prepositions.html)
 * [DeReWo](http://www1.ids-mannheim.de/kl/projekte/methoden/derewo.html)
+* [Diachronic Usage Relatedness (DURel)](http://www.ims.uni-stuttgart.de/data/durel)
 * [DiMLex (lexicon of German discourse markers)](https://github.com/discourse-lab/dimlex)
 * [German Compound Database](https://www.webcorpora.org/opendata/gecodb/)
 * [German derivational lexicons](http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/DErivBase.html)
 * [German nouns from Wiktionary](https://github.com/gambolputty/german-nouns)
+* [Metaphoric Change (annotated lexemes)](http://www.ims.uni-stuttgart.de/forschung/ressourcen/experiment-daten/metaphoric_change.html)
 * [Morphological Dictionaries (DEMorphy)](https://github.com/DuyguA/german-morph-dictionaries)
 * [German Wiktionary Lexicon Graph](https://vlo.clarin.eu/record?10&count=2&docId=21.11105_47_0000-000B-D244-B&fq=collection:CEDIFOR.Lexicon&fqType=collection:or&index=0)
 * [German word list for GNU Aspell](https://sourceforge.net/projects/germandict/files/)
@@ -242,7 +248,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [RFTagger](http://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
 * [SoMeWeTa](https://github.com/tsproisl/SoMeWeTa)
 * [TnT](http://www.coli.uni-saarland.de/~thorsten/tnt/)
-* [TreeTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
+* [TreeTagger (including models)](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
+  * [Demo for middle high German](http://clarin05.ims.uni-stuttgart.de/mhdtt/index.html)
 
 
 ### Syntactical parsing
@@ -255,8 +262,6 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [ParZu](https://github.com/rsennrich/parzu)
 * [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml)
 
-* [ICARUS (query tool)](http://hdl.handle.net/11022/1007-0000-0000-8E56-0)
-   * [ICARUS2](http://hdl.handle.net/11022/1007-0000-0007-C635-E)
 
 ### Named Entity Recognition
 
@@ -265,8 +270,16 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [GermaNER](https://github.com/tudarmstadt-lt/GermaNER)
 * [LSTM+CRF+FastText with models for (historic) German](https://github.com/riedlma/sequence_tagging)
 * [microNER](https://uhh-lt.github.io/microNER/)
+* [Named Entity Recognition (LSTM + CRF + FastText) with models for [historic] German](https://github.com/riedlma/sequence_tagging)
 * [ner-corpora](https://github.com/EuropeanaNewspapers/ner-corpora)
 * [(Faruqui & Pado 2010) Components and evaluation data](https://nlpado.de/~sebastian/software/ner_german.shtml)
+* [Towards Robust Named Entity Recognition for Historic German](https://github.com/dbmdz/historic-ner)
+
+
+### Misc
+
+* [ICARUS (query tool)](http://hdl.handle.net/11022/1007-0000-0000-8E56-0)
+   * [ICARUS2](http://hdl.handle.net/11022/1007-0000-0007-C635-E)
 
 
 ### Text generation
@@ -277,6 +290,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Industry/Applications
 
 * [German Decompounder for Apache Lucene / Apache Solr / Elasticsearch](https://github.com/uschindler/german-decompounder)
+* [holmes-extractor](https://github.com/msg-systems/holmes-extractor)
 * [LanguageTool](https://languagetool.org)
 
 
@@ -297,6 +311,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Logical metonymy database](http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/GLMD.html)
 * [schulteimwalde.de/resources.html](http://www.schulteimwalde.de/resources.html)
 * [Semantic Relations in Context](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/semreldata.html)
+* [Ten Thousand German News Articles Dataset for Topic Classification](https://github.com/tblock/10kGNAD)
 * [UKP Darmstadt data list](https://www.informatik.tu-darmstadt.de/ukp/research_6/data/index.en.jsp)
 
 
@@ -315,8 +330,10 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Sentiment analysis datasets / polarity clues
 
+* [Affective norms: abstractness, arousal, imageability and valence ratings](http://www.ims.uni-stuttgart.de/data/affective_norms)
 * [GermanPolarityClues](http://www.ulliwaltinger.de/sentiment/)
 * [HeiST – Heidelberg Sentiment Treebank](http://www.cl.uni-heidelberg.de/~versley/HeiST/)
+* [(Non-)Literalness Ratings for complex verbs](http://www.ims.uni-stuttgart.de/data/pv_nonlit )
 * [Potsdam Twitter Sentiment Corpus (PotTS)](https://github.com/WladimirSidorenko/PotTS)
 * [Sentiment Lexicon (Univ. Zurich)](http://bics.sentimental.li/files/8614/2462/8150/german.lex)
 * [SentimentWortschatz](http://wortschatz.uni-leipzig.de/en/download/)
@@ -352,7 +369,9 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Discourse Segmenter](https://github.com/WladimirSidorenko/DiscourseSegmenter)
 * [Frame Identification](https://github.com/UKPLab/naacl18-multimodal-frame-identification)
 * [German social media textual entailment dataset](https://www.cl.uni-heidelberg.de/~zeller/res/te-ger/index.mhtml)
+* [HotCoref DE (coreference resolution)](https://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/HotCorefDe)
 * [PropS-DE (proposition structures)](https://github.com/UKPLab/props-de)
+* [Tense-mood-voice annotation system](https://github.com/aniramm/tmv-annotator)
 
 
 ### Summarization
@@ -392,6 +411,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [bubenhofer.com/korpuslinguistik/kurs/](http://www.bubenhofer.com/korpuslinguistik/kurs/)
 * [CorpusExplorer v2.0 – Seminartauglich in einem halben Tag](https://lernen-mit.jan-oliver-ruediger.de/)
 * [deeplearning4nlp-tutorial](https://github.com/UKPLab/deeplearning4nlp-tutorial)
+* [Statistics for linguists (S. Vasishth)](https://github.com/vasishth/Statistics-lecture-notes-Potsdam)
 * Uni Zürich: Sprachtechnologie in den Digital Humanities – MOOC [Youtube](https://www.youtube.com/channel/UChb3Rd5vo3WEgMSy99VInaw) & [Coursera](http://www.coursera.org/learn/digital-humanities)
 
 
@@ -401,6 +421,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [CLARIN VLO (DE+public)](https://vlo.clarin.eu/search?2&fq=languageCode:code:deu&fq=licenseType:PUB)
 * [computerlinguistik.org](http://www.computerlinguistik.org/portal/portal.html?s=Ressourcen)
+* [Learn German as a foreign language](https://github.com/willianpaixao/awesome-german)
 * [LRE Map](http://lremap.elra.info/?&selected_facets=languageFilter_exact%3AGerman)
 * [MetaShare Language Resources](http://metashare.ilsp.gr:8080/repository/search/?q=&selected_facets=languageNameFilter_exact%3AGerman)
 * [Peter Kolb's list](http://www.ling.uni-potsdam.de/~kolb/nlp-tools.html)
