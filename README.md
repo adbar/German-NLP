@@ -74,9 +74,9 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Lesekorpus Altdeutsch (750-1050)](http://titus.uni-frankfurt.de/lea)
 * [LiederCorpus](https://github.com/corpusmusic/liederCorpusAnalysis)
 * [Referenzkorpus Altdeutsch (750-1050)](http://www.deutschdiachrondigital.de/)
-* [Referenzkorpus Mittelhochdeutsch (1050-1350)](https://www.ruhr-uni-bochum.de/wegera/rem/index.htm)
+* [Referenzkorpus Mittelhochdeutsch (1050-1350)](https://www.linguistics.ruhr-uni-bochum.de/rem/)
 * [Referenzkorpus Mittelniederdeutsch/Niederrheinisch (1200-1650)](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/text-corpus:ren-0.6)
-* [Referenzkorpus Frühneuhochdeutsch (1350-1650)](https://www.ruhr-uni-bochum.de/wegera/ref/index.htm)
+* [Referenzkorpus Frühneuhochdeutsch (1350-1650)](https://www.linguistics.ruhr-uni-bochum.de/ref/)
 * [Thesaurus Indogermanischer Text- und Sprachmaterialien (TITUS)](http://titus.uni-frankfurt.de/indexd.htm?/texte/texte.htm)
 
 
@@ -465,6 +465,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [awesome-nlp](https://github.com/keon/awesome-nlp)
 * [Awesome Community-Curated NLP List](https://github.com/alvations/awesome-community-curated-nlp)
 * [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP)
+* [awesome-danish](https://github.com/fnielsen/awesome-danish)
 * [awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp)
 * [Indonesian NLP](https://github.com/kmkurn/id-nlp-resource)
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
