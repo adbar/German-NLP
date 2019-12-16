@@ -87,6 +87,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [DIRNDL -- (D)iscourse (I)nformation (R)adio (N)ews (D)atabase for (L)inguistic Analysis](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/dirndl.en.html)
 * [Dortmunder Chat Korpus](http://www.chatkorpus.tu-dortmund.de/)
 * [Feidegger (Fashion Images and Descriptions)](https://github.com/zalandoresearch/feidegger)
+* [Foodblog-Korpus](https://doi.org/10.5281/zenodo.1410445)
 * [Fußballlinguistik](https://fussballlinguistik.de/korpora/)
 * [German EUROPARL data w/ NE annotation](https://nlpado.de/~sebastian/software/ner_german.shtml)
 * [German Job Reference Corpus](https://github.com/iug-htw/GJRC)
@@ -145,6 +146,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [SwigSpot Schwyzertuutsch-Spotting](https://github.com/derlin/SwigSpot_Schwyzertuutsch-Spotting)
 * Twitter
   * [German April 2013 Twitter Corpus](https://github.com/TScheffler/GermanTwitterApril2013)
+* [trafilatura](https://github.com/adbar/trafilatura)
 
 
 ### Lists of corpora
@@ -229,6 +231,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [germalemma](https://github.com/WZBSocialScienceCenter/germalemma)
 * [GermaLemma++ (ensemble)](https://github.com/rubcompling/germalemmaplusplus)
+* [german-lemmatizer](https://github.com/jfilter/german-lemmatizer)
 * [IWNLP](https://github.com/Liebeck/IWNLP)
    * [spacy-iwnlp](https://github.com/Liebeck/spacy-iwnlp)
 
@@ -296,6 +299,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Misc
 
+* [German Preprocessing](https://github.com/jfilter/german-preprocessing)
 * [ICARUS (query tool)](http://hdl.handle.net/11022/1007-0000-0000-8E56-0)
    * [ICARUS2](http://hdl.handle.net/11022/1007-0000-0007-C635-E)
 
@@ -420,7 +424,10 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ## Machine Translation
 
-* []()
+*(category to improve)*
+* [Tensorflow NMT DE-EN](https://github.com/tensorflow/nmt)
+   * [NMT English to German](https://github.com/thomasschmied/Neural_Machine_Translation_Tensorflow)
+* [Unsupervised Word Segmentation for NMT](https://github.com/rsennrich/subword-nmt)
 
 
 #### Parallel corpora
@@ -435,7 +442,10 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [bubenhofer.com/korpuslinguistik/kurs/](http://www.bubenhofer.com/korpuslinguistik/kurs/)
 * [CorpusExplorer v2.0 – Seminartauglich in einem halben Tag](https://lernen-mit.jan-oliver-ruediger.de/)
 * [deeplearning4nlp-tutorial](https://github.com/UKPLab/deeplearning4nlp-tutorial)
+* [deutsch-nlp (text classification)](https://github.com/taylorhawks/deutsch-nlp)
+* [German Text Classification Tutorial Series](https://github.com/realjanpaulus/german_text_classification_nlp)
 * [Statistics for linguists (S. Vasishth)](https://github.com/vasishth/Statistics-lecture-notes-Potsdam)
+* [Stilometrie](https://github.com/realjanpaulus/stylometry)
 * Uni Zürich: Sprachtechnologie in den Digital Humanities – MOOC [Youtube](https://www.youtube.com/channel/UChb3Rd5vo3WEgMSy99VInaw) & [Coursera](http://www.coursera.org/learn/digital-humanities)
 
 
