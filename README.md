@@ -195,10 +195,10 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Annotation
 
 * [cora](https://github.com/comphist/cora)
-* [CorefAnnotator](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/CorefAnnotator.html)
+* [CorefAnnotator](https://www.ims.uni-stuttgart.de/en/research/resources/tools/corefannotator/)
 * [corpus-tools.org (HU Berlin)](http://corpus-tools.org/home/)
 * [INCEpTION](https://inception-project.github.io/)
-* [TreeAnno](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/TreeAnno.html)
+* [TreeAnno](https://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/treeanno/)
 * [WebAnno](https://webanno.github.io/webanno/)
 
 
