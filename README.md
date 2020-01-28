@@ -490,6 +490,11 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Ubiquitous Knowledge Processing Lab, TU Darmstadt](https://github.com/ukplab)
 
 
+## Contributors
+
+See the [list of contributors](https://github.com/adbar/German-NLP/graphs/contributors).
+
+
 ## License
 
 [![CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)](https://creativecommons.org/licenses/by/4.0/)

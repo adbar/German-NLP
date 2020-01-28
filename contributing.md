@@ -1,11 +1,24 @@
 # Contribution Guidelines
 
+Thank you for considering contributing to this list!
+
 
 ## Table of Contents
 
+- [Basic information](#basic-information)
 - [Adding to this list](#adding-to-this-list)
 - [Adding something to an awesome list](#adding-something-to-an-awesome-list)
 - [Updating your Pull Request](#updating-your-pull-request)
+
+
+## Basic information
+
+Please send a [GitHub Pull Request to this repository](https://github.com/adbar/German-NLP/pull/new/master) with a clear list of what you've done (read more about [pull requests](http://help.github.com/pull-requests/)).
+
+**Working on your first Pull Request?** See this tutorial: [How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+
+For further questions you can contact me by way of [GitHub issues](https://github.com/adbar/German-NLP/issues), [Twitter](https://twitter.com/adbarbaresi) or [E-Mail](http://adrien.barbaresi.eu/contact.html).
+
 
 ## Adding to this list
 
@@ -23,6 +36,7 @@ Please ensure your pull request adheres to the following guidelines:
 - The pull request and commit should have a useful title.
 
 Thank you for your suggestions!
+
 
 ## Adding something to an awesome list
 
@@ -42,3 +56,8 @@ You'll need a [GitHub account](https://github.com/join)!
 Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
 
 [Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+
+
+Thanks,
+
+Adrien
