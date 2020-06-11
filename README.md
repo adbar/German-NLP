@@ -327,7 +327,6 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ## Semantic analysis
 
 ### Datasets
-
 * [Complex Word Identification (DE, EN, ES, FR)](https://sites.google.com/view/cwisharedtask2018/home)
 * Distributional memories: [DM.de](http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/dm-de.html) [TransDM.de](http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/transdmde.html)
 * [Distributional thesauri (includes German)](https://sourceforge.net/projects/jobimtext/files/data/models/)
@@ -355,6 +354,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Sentiment analysis datasets / polarity clues
 
 * [Affective norms: abstractness, arousal, imageability and valence ratings](http://www.ims.uni-stuttgart.de/data/affective_norms)
+* [Broad-Coverage German Sentiment Classification Model and Dataset for Dialog Systems](https://github.com/oliverguhr/german-sentiment)
 * [GermanPolarityClues](http://www.ulliwaltinger.de/sentiment/)
 * [HeiST – Heidelberg Sentiment Treebank](http://www.cl.uni-heidelberg.de/~versley/HeiST/)
 * [(Non-)Literalness Ratings for complex verbs](http://www.ims.uni-stuttgart.de/data/pv_nonlit )
@@ -367,6 +367,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Sentiment detection
 
 * [EmotiKLUE](https://github.com/tsproisl/EmotiKLUE)
+* [germansentiment: A simple python package for sentiment classification](https://github.com/oliverguhr/german-sentiment-lib)
 * [LT-ABSA: Aspect-based Sentiment Analysis](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/software/lt-absa.html)
 * [sentiment-analyser](https://github.com/syzer/sentiment-analyser)
 * [spacy-sentiws](https://github.com/Liebeck/spacy-sentiws)
