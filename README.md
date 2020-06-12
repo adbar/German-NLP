@@ -96,6 +96,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [GermaParl (Bundestag)](https://github.com/PolMine/GermaParlTEI)
 * [GRAIN corpus -- (G)erman-(RA)dio-(IN)terviews](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/grain.html)
 * [One Million Posts Corpus](https://ofai.github.io/million-post-corpus/)
+* [Pegida Facebook Comments](http://0x0a.li/wp-content/uploads/2015/01/pegida_korpus.zip)
 * [Potsdam Commentary Corpus (PCC)](http://angcl.ling.uni-potsdam.de/resources/pcc.html)
 * [Songkorpus](http://songkorpus.de/)
 * [Ten Thousand German News Articles Dataset](https://github.com/tblock/10kGNAD)
