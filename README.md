@@ -383,6 +383,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Sentiment analysis datasets / polarity clues
 
 * [Affective norms: abstractness, arousal, imageability and valence ratings](http://www.ims.uni-stuttgart.de/data/affective_norms)
+* [German Sentiment Classification Model for Dialog Systems](https://github.com/oliverguhr/german-sentiment)
 * [GermanPolarityClues](http://www.ulliwaltinger.de/sentiment/)
 * [HeiST – Heidelberg Sentiment Treebank](http://www.cl.uni-heidelberg.de/~versley/HeiST/)
 * [(Non-)Literalness Ratings for complex verbs](http://www.ims.uni-stuttgart.de/data/pv_nonlit )
@@ -395,7 +396,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Sentiment detection
 
 * [EmotiKLUE](https://github.com/tsproisl/EmotiKLUE)
-* [German Sentiment Classification Model for Dialog Systems](https://github.com/oliverguhr/german-sentiment)
+* [germansentiment: A simple python package for sentiment classification](https://github.com/oliverguhr/german-sentiment-lib)
 * [LT-ABSA: Aspect-based Sentiment Analysis](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/software/lt-absa.html)
 * [sentiment-analyser](https://github.com/syzer/sentiment-analyser)
 * [spacy-sentiws](https://github.com/Liebeck/spacy-sentiws)
