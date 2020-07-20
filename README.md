@@ -19,6 +19,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 - [Generic resources](#Generic-resources)
    - [Frameworks](#Frameworks)
    - [Treebanks](#Treebanks)
+   - [Deep learning models and transformers](#Deep-learning-models-and-transformers)
    - [Annotation](#Annotation)
    - [Standards](#Standards)
 - [Linguistic processing](#Linguistic-processing)
@@ -27,6 +28,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
    - [Lemmatization](#Lemmatization)
    - [Morphological analysis](#Morphological-analysis)
    - [Normalization](#Normalization)
+   - [Phonology](#Phonology)
    - [POS-tagging](#POS-tagging)
    - [Syntactical parsing](#Syntactical-parsing)
    - [Named Entity Recognition](#Named-Entity-Recognition)
@@ -94,6 +96,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [German Political Speeches Corpus](http://purl.org/corpus/german-speeches)
 * [German Recipes Dataset](https://www.kaggle.com/sterby/german-recipes-dataset)
 * [GermaParl (Bundestag)](https://github.com/PolMine/GermaParlTEI)
+* [German Wikipedia Text Corpus](https://github.com/t-systems-on-site-services-gmbh/german-wikipedia-text-corpus)
 * [GRAIN corpus -- (G)erman-(RA)dio-(IN)terviews](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/grain.html)
 * [One Million Posts Corpus](https://ofai.github.io/million-post-corpus/)
 * [Potsdam Commentary Corpus (PCC)](http://angcl.ling.uni-potsdam.de/resources/pcc.html)
@@ -138,9 +141,11 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Data acquisition
 
 * [bundestag](https://github.com/bundestag)
+* [bundestweets](https://github.com/michi-d/bundestweets)
 * [DKPro C4Corpus](https://github.com/dkpro/dkpro-c4corpus)
 * [german-reddit](https://github.com/adbar/german-reddit)
 * [news-crawler](https://github.com/theSoenke/news-crawler)
+* [news-please](https://github.com/fhamborg/news-please)
 * [pattern](https://www.clips.uantwerpen.be/pages/pattern)
 * [scrape-gutenberg-de](https://github.com/jfilter/scrape-gutenberg-de)
 * [SwigSpot Schwyzertuutsch-Spotting](https://github.com/derlin/SwigSpot_Schwyzertuutsch-Spotting)
@@ -192,6 +197,17 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [TüBa-D/Z](http://www.sfs.uni-tuebingen.de/en/ascl/resources/corpora/tueba-dz.html)
 
 
+## Deep learning models and transformers
+
+* [dbmdz BERT models](https://github.com/dbmdz/berts)
+* [Deepset German BERT model](https://deepset.ai/german-bert)
+* [Evaluating German Transformer Language Models with Syntactic Agreement Tests](https://github.com/DFKI-NLP/gevalm)
+* [German ELMo Model](https://github.com/t-systems-on-site-services-gmbh/german-elmo-model)
+* [german-transformer-training](https://github.com/PhilipMay/german-transformer-training)
+* [GermLM](https://github.com/tonianelope/Multilingual-BERT) (NER exploration)
+* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
+
+
 ### Annotation
 
 * [cora](https://github.com/comphist/cora)
@@ -224,6 +240,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Stemming
 
 * [CISTEM](https://github.com/LeonieWeissweiler/CISTEM)
+* [german-go-stemmer](https://github.com/antonbaumann/german-go-stemmer)
 * [Snowball](http://snowballstem.org)
 
 
@@ -240,15 +257,20 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [CharSplit](https://github.com/dtuggener/CharSplit)
 * [DEMorphy](https://github.com/DuyguA/DEMorphy)
+* [dehyphen](https://github.com/jfilter/dehyphen)
+* [deep-german](https://github.com/aakhundov/deep-german) (classification of nouns by genders)
 * [Durm Lemmatizer](http://www.semanticsoftware.info/durm-german-lemmatizer)
+* [GermanNumerus](https://github.com/ulrischa/GermanNumerus)
 * [HypheNN-de](https://github.com/msiemens/HypheNN-de)
 * [jwordsplitter](https://github.com/danielnaber/jwordsplitter)
+* [lang-deu](https://github.com/giellalt/lang-deu)
 * [MarMoT](http://cistern.cis.lmu.de/marmot/)
 * [Morphy](http://morphy.wolfganglezius.de/)
 * [morphisto](https://code.google.com/archive/p/morphisto/)
 * [SECOS (unsupervised compound splitter)](https://github.com/riedlma/SECOS)
 * [SFST](http://www.cis.uni-muenchen.de/~schmid/tools/SFST/)
 * [SMOR](http://www.cis.uni-muenchen.de/~schmid/tools/SMOR/), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
+* [timur](https://github.com/wrznr/timur)
 * [zmorge](https://github.com/rsennrich/zmorge)
 
 
@@ -256,6 +278,11 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [CAB](http://www.deutschestextarchiv.de/cab)
 * [norma](https://github.com/comphist/norma)
+
+
+### Phonology
+
+* [gramophone](https://github.com/wrznr/gramophone)
 
 
 ### POS-tagging
@@ -306,6 +333,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Text generation
 
+* [fake_text](https://github.com/fhswf/fake_text)
 * [ngen](https://github.com/Fedjmike/ngen)
 * [pypolibox](https://github.com/arne-cl/pypolibox)
 
@@ -367,6 +395,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Sentiment detection
 
 * [EmotiKLUE](https://github.com/tsproisl/EmotiKLUE)
+* [German Sentiment Classification Model for Dialog Systems](https://github.com/oliverguhr/german-sentiment)
 * [LT-ABSA: Aspect-based Sentiment Analysis](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/software/lt-absa.html)
 * [sentiment-analyser](https://github.com/syzer/sentiment-analyser)
 * [spacy-sentiws](https://github.com/Liebeck/spacy-sentiws)
@@ -416,6 +445,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [BAS ressources](http://www.bas.uni-muenchen.de/Bas/BasSpeechresourceseng.html)
 * [Bochumer Korpus der gesprochenen Sprache im Ruhrgebiet](https://www.ruhr-uni-bochum.de/kgsr/)
 * [Database for Spoken German (IDS Mannheim)](https://dgd.ids-mannheim.de/dgd/pragdb.dgd_extern.welcome)
+* [deepspeech-german](https://github.com/AASHISHAG/deepspeech-german)
 * [(D)iscourse (I)nformation (R)adio (N)ews (D)atabase for (L)inguistic Analysis ](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/dirndl.en.html)
 * [Hamburger Zentrum für Sprachkorpora](https://corpora.uni-hamburg.de/hzsk/)
 * [kaldi-tuda-de](https://github.com/uhh-lt/kaldi-tuda-de)
@@ -478,6 +508,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [awesome-danish](https://github.com/fnielsen/awesome-danish)
 * [awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp)
 * [Indonesian NLP](https://github.com/kmkurn/id-nlp-resource)
+* [awesome-nlp-polish](https://github.com/ksopyla/awesome-nlp-polish)
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
 * [M. Weisser's list of NLP/Computational Linguistics Resources](http://martinweisser.org/corpora_site/comp_ling_resources.html)
 * [NLP tools (Saarland University)](http://www.coli.uni-saarland.de/~csporled/page.php?id=tools)
@@ -486,7 +517,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Larger institutional GitHub groups
 
-* [Language Technology Group, Universität Hamburg](https://github.com/uhh-lt/)
+* [Language Technology Group, Universität Hamburg](https://github.com/uhh-lt)
+* [Saarland University Spoken Language Systems Group](https://github.com/uds-lsv)
 * [Ubiquitous Knowledge Processing Lab, TU Darmstadt](https://github.com/ukplab)
 
 
