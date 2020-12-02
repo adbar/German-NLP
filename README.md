@@ -147,7 +147,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [german-reddit](https://github.com/adbar/german-reddit)
 * [news-crawler](https://github.com/theSoenke/news-crawler)
 * [news-please](https://github.com/fhamborg/news-please)
-* [pattern](https://www.clips.uantwerpen.be/pages/pattern)
+* [pattern](https://github.com/clips/pattern/wiki/pattern-de)
+  * [patternlite](https://github.com/WZBSocialScienceCenter/patternlite)
 * [scrape-gutenberg-de](https://github.com/jfilter/scrape-gutenberg-de)
 * [SwigSpot Schwyzertuutsch-Spotting](https://github.com/derlin/SwigSpot_Schwyzertuutsch-Spotting)
 * Twitter
@@ -180,6 +181,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [flair](https://github.com/zalandoresearch/flair)
 * [ixa pipes](http://ixa2.si.ehu.es/ixa-pipes/)
 * [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
+* [nlptasks](https://github.com/ulf1/nlptasks)
 * [spaCy](https://github.com/explosion/spaCy)
 * [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 * [textblob-de](https://github.com/markuskiller/textblob-de)
@@ -278,6 +280,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Normalization
 
 * [CAB](http://www.deutschestextarchiv.de/cab)
+* [dehyphen](https://github.com/pd3f/dehyphen)
 * [norma](https://github.com/comphist/norma)
 
 
@@ -289,6 +292,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### POS-tagging
 
 * [clevertagger](https://github.com/rsennrich/clevertagger)
+* [HanTa](https://github.com/wartaal/HanTa/)
 * [hunpos](https://github.com/mivoq/hunpos)
 * [moot](http://kaskade.dwds.de/~jurish/projects/moot)
 * [pattern.de](https://www.clips.uantwerpen.be/pages/pattern-de)
