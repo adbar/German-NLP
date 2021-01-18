@@ -7,6 +7,7 @@ Resources and tools which can be used either off-the-shelf or with minor adjustm
 Pull requests and suggestions are welcome! See [contributing guidelines](contributing.md).
 
 
+
 ## Table of Contents
 
 - [Text corpora](#Text-corpora)
@@ -70,6 +71,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Anselm (14th-16th centuries)](https://www.linguistics.ruhr-uni-bochum.de/anselm/access/index.en.html)
 * [Deutsches Textarchiv](https://deutschestextarchiv.de/)
 * [Elektronische Texte (Thomas Gloning)](http://www.staff.uni-giessen.de/gloning/etexte.htm)
+* [GerManC (1650-1800)](https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2544)
 * [German Drama Corpus (GerDraCor)](https://github.com/dracor-org/gerdracor)
 * [German Novels](https://github.com/computationalstylistics/68_german_novels)
 * [German Poetry Corpus (DLK)](https://github.com/thomasnikolaushaider/DLK)
@@ -119,6 +121,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [C-WEP](http://lingured.info/linguistic-resources/cwep/)
 * [DysList (list of dyslexic errors)](https://github.com/Rauschii/DysListGerman)
 * [Falko](https://www.linguistik.hu-berlin.de/de/institut/professuren/korpuslinguistik/forschung/falko)
+* [Litkey](https://www.linguistics.ruhr-uni-bochum.de/litkeycorpus/)
 * [OpinionSpam](https://github.com/hdaSprachtechnologie/OpinionSpam)
 
 
@@ -137,6 +140,9 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [German Wiktionary Lexicon Graph](https://vlo.clarin.eu/record?10&count=2&docId=21.11105_47_0000-000B-D244-B&fq=collection:CEDIFOR.Lexicon&fqType=collection:or&index=0)
 * [German word list for GNU Aspell](https://sourceforge.net/projects/germandict/files/)
 * [OpenThesaurus](https://www.openthesaurus.de/about/download)
+
+* [german_stopwords](https://github.com/solariz/german_stopwords)
+* [Stopwords German (DE)](https://github.com/stopwords-iso/stopwords-de)
 
 
 ### Data acquisition
@@ -179,10 +185,13 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [DKPro Text Classification (TC)](https://dkpro.github.io/dkpro-tc)
 * [DKPro Word Sense Disambiguation (WSD)](https://dkpro.github.io/dkpro-wsd)
 * [flair](https://github.com/zalandoresearch/flair)
+* [FreeLing](http://nlp.lsi.upc.edu/freeling/)
 * [ixa pipes](http://ixa2.si.ehu.es/ixa-pipes/)
 * [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
+* [NLP-Cube](https://github.com/adobe/NLP-Cube)
 * [nlptasks](https://github.com/ulf1/nlptasks)
 * [spaCy](https://github.com/explosion/spaCy)
+* [Sparv](https://spraakbanken.gu.se/sparv/docs/)
 * [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 * [textblob-de](https://github.com/markuskiller/textblob-de)
 * [TextImager](https://vlo.clarin.eu/record?4&count=1&docId=21.11105_47_0000-000B-CAE6-E&index=0&q=TextImager)
@@ -208,6 +217,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [German ELMo Model](https://github.com/t-systems-on-site-services-gmbh/german-elmo-model)
 * [german-transformer-training](https://github.com/PhilipMay/german-transformer-training)
 * [GermLM](https://github.com/tonianelope/Multilingual-BERT) (NER exploration)
+* [GerPT2](https://github.com/bminixhofer/gerpt2)
 * [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
 
 
@@ -217,6 +227,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [CorefAnnotator](https://www.ims.uni-stuttgart.de/en/research/resources/tools/corefannotator/)
 * [corpus-tools.org (HU Berlin)](http://corpus-tools.org/home/)
 * [INCEpTION](https://inception-project.github.io/)
+* [satzify](https://github.com/michdr/satzify)
 * [TreeAnno](https://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/treeanno/)
 * [WebAnno](https://webanno.github.io/webanno/)
 
@@ -231,9 +242,11 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ## Linguistic processing
 
-### Tokenization
+### Tokenization / Sentence boundary detection
 
+* [deep-eos](https://github.com/dbmdz/deep-eos)
 * [JTok](https://github.com/DFKI-MLT/JTok)
+* [nnsplit](https://github.com/bminixhofer/nnsplit)
 * [SoMaJo](https://github.com/tsproisl/SoMaJo)
 * [syntok](https://github.com/fnl/syntok)
 * [waste](http://kaskade.dwds.de/waste/)
@@ -249,11 +262,13 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Lemmatization
 
+* [cstlemma](https://github.com/kuhumcst/cstlemma)
 * [germalemma](https://github.com/WZBSocialScienceCenter/germalemma)
 * [GermaLemma++ (ensemble)](https://github.com/rubcompling/germalemmaplusplus)
 * [german-lemmatizer](https://github.com/jfilter/german-lemmatizer)
 * [IWNLP](https://github.com/Liebeck/IWNLP)
    * [spacy-iwnlp](https://github.com/Liebeck/spacy-iwnlp)
+* [simplemma](https://github.com/adbar/simplemma)
 
 
 ### Morphological analysis
@@ -263,13 +278,16 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [dehyphen](https://github.com/jfilter/dehyphen)
 * [deep-german](https://github.com/aakhundov/deep-german) (classification of nouns by genders)
 * [Durm Lemmatizer](http://www.semanticsoftware.info/durm-german-lemmatizer)
+* [german_compound_splitter](https://github.com/repodiac/german_compound_splitter)
 * [GermanNumerus](https://github.com/ulrischa/GermanNumerus)
 * [HypheNN-de](https://github.com/msiemens/HypheNN-de)
 * [jwordsplitter](https://github.com/danielnaber/jwordsplitter)
 * [lang-deu](https://github.com/giellalt/lang-deu)
+* [Low German morphology and tools](https://github.com/giellalt/lang-nds)
 * [MarMoT](http://cistern.cis.lmu.de/marmot/)
 * [Morphy](http://morphy.wolfganglezius.de/)
 * [morphisto](https://code.google.com/archive/p/morphisto/)
+* [nnsplit](https://github.com/bminixhofer/nnsplit)
 * [SECOS (unsupervised compound splitter)](https://github.com/riedlma/SECOS)
 * [SFST](http://www.cis.uni-muenchen.de/~schmid/tools/SFST/)
 * [SMOR](http://www.cis.uni-muenchen.de/~schmid/tools/SMOR/), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
