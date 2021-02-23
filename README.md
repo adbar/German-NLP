@@ -101,12 +101,12 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [German Wikipedia Text Corpus](https://github.com/t-systems-on-site-services-gmbh/german-wikipedia-text-corpus)
 * [GRAIN corpus -- (G)erman-(RA)dio-(IN)terviews](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/grain.html)
 * [One Million Posts Corpus](https://ofai.github.io/million-post-corpus/)
+* [Open Legal Data Corpus (German laws and court decisions)](http://openlegaldata.io/research/2019/02/19/court-decision-dataset.html)
 * [Pegida Facebook Comments](http://0x0a.li/wp-content/uploads/2015/01/pegida_korpus.zip)
 * [Potsdam Commentary Corpus (PCC)](http://angcl.ling.uni-potsdam.de/resources/pcc.html)
 * [Songkorpus](http://songkorpus.de/)
 * [Ten Thousand German News Articles Dataset](https://github.com/tblock/10kGNAD)
 * [TTLab StadtWiki Corpus](https://vlo.clarin.eu/?7&fq=collection:CEDIFOR.Corpus.StadtWikis&fqType=collection:or)
-
 
 #### Swiss German
 
