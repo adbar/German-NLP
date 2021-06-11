@@ -59,8 +59,10 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### General-purpose
 
 * [Araneum Germanicum](http://aranea.juls.savba.sk/aranea_about/_germanicum.html)
+* [CEHugeWebCorpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-2638)
 * [COW](http://corporafromtheweb.org/category/corpora/german/)
 * [Digitales Wörterbuch der deutschen Sprache (DWDS)](https://dwds.de)
+* [GC4 Corpus](https://german-nlp-group.github.io/projects/gc4-corpus.html) (CommonCrawl)
 * [IDS Corpora](http://www1.ids-mannheim.de/kl/projekte/korpora)
 * [Leipzig Corpora Collection](http://wortschatz.uni-leipzig.de/en/download/)
 * [SdeWaC](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/sdewac.en.html)
@@ -332,6 +334,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [IMSTrans (dependency parser)](http://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/imstrans.en.html)
 * [ParZu](https://github.com/rsennrich/parzu)
 * [Stanford Parser](https://nlp.stanford.edu/software/lex-parser.shtml)
+* [STEPS Parser](https://github.com/boschresearch/steps-parser)
 
 
 ### Named Entity Recognition
@@ -339,6 +342,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [AmbiverseNLU KnowNER](https://github.com/ambiverse-nlu/ambiverse-nlu)
 * [flair](https://github.com/zalandoresearch/flair)
 * [GermaNER](https://github.com/tudarmstadt-lt/GermaNER)
+* [historic-ner](https://github.com/dbmdz/historic-ner)
 * [LSTM+CRF+FastText with models for (historic) German](https://github.com/riedlma/sequence_tagging)
 * [microNER](https://uhh-lt.github.io/microNER/)
 * [Named Entity Recognition (LSTM + CRF + FastText) with models for [historic] German](https://github.com/riedlma/sequence_tagging)
@@ -382,6 +386,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Complex Word Identification (DE, EN, ES, FR)](https://sites.google.com/view/cwisharedtask2018/home)
 * Distributional memories: [DM.de](http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/dm-de.html) [TransDM.de](http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/transdmde.html)
 * [Distributional thesauri (includes German)](https://sourceforge.net/projects/jobimtext/files/data/models/)
+* [Downloads page](https://sites.google.com/site/iggsahome/home) of the Interest Group on German Sentiment Analysis
 * [Lexical Chains](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/lexical-chains.html)
 * [Logical metonymy database](http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/GLMD.html)
 * [schulteimwalde.de/resources.html](http://www.schulteimwalde.de/resources.html)
@@ -444,6 +449,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Bilingual formality (T/V) corpus (EN/DE)](https://nlpado.de/~sebastian/data/tv_data.shtml)
 * [Bilingual FrameNet frame embeddings (EN/DE)](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/XLFrameEmbed.html)
 * [Bilingual parallel frame-semantic annotation (EN/DE)](https://nlpado.de/~sebastian/data/srl_data.shtml)
+* [Coreferee](https://github.com/msg-systems/coreferee)
 * [CorZu (coreference resolution)](https://github.com/dtuggener/CorZu)
 * [Discourse Segmenter](https://github.com/WladimirSidorenko/DiscourseSegmenter)
 * [Frame Identification](https://github.com/UKPLab/naacl18-multimodal-frame-identification)
@@ -531,6 +537,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [awesome-chinese-nlp](https://github.com/crownpku/Awesome-Chinese-NLP)
 * [awesome-danish](https://github.com/fnielsen/awesome-danish)
 * [awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp)
+* [awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval)
 * [Indonesian NLP](https://github.com/kmkurn/id-nlp-resource)
 * [awesome-nlp-polish](https://github.com/ksopyla/awesome-nlp-polish)
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
@@ -541,6 +548,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Larger institutional GitHub groups
 
+* [German NLP Group](https://github.com/German-NLP-Group)
 * [Language Technology Group, Universität Hamburg](https://github.com/uhh-lt)
 * [Saarland University Spoken Language Systems Group](https://github.com/uds-lsv)
 * [Ubiquitous Knowledge Processing Lab, TU Darmstadt](https://github.com/ukplab)
