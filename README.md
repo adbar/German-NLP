@@ -170,6 +170,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Corpora at the IMS](http://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/index.en.html)
 * [CorpusExplorer's list of corpora](https://notes.jan-oliver-ruediger.de/korpora/)
 * [Korpusarchiv (IDS Mannheim)](http://www1.ids-mannheim.de/kl/projekte/korpora/archiv.html)
+* [Laudatio (Long-term Access and Usage of Deeply Annotated Information)](https://www.laudatio-repository.org/)
 * [Parallel corpora (see below)](#parallel-corpora)
 * [Treebanks (see below)](#treebanks)
 * [ZAS list](http://www.zas.gwz-berlin.de/katalog00100.html?&L=1)
