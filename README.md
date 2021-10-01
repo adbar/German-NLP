@@ -481,6 +481,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Hamburger Zentrum für Sprachkorpora](https://corpora.uni-hamburg.de/hzsk/)
 * [kaldi-tuda-de](https://github.com/uhh-lt/kaldi-tuda-de)
 * [Open Speech Data Corpus](http://voxforge.org/home/forums/other-languages/german/open-speech-data-corpus-for-german)
+* [Thorsten (Emotional) - Open German Voice Dataset](https://github.com/thorstenMueller/deep-learning-german-tts/#emotional-dataset-information-and-samples-microphone)
+* [Thorsten (Neutral) - Open German Voice Dataset](https://github.com/thorstenMueller/deep-learning-german-tts/#samples-of-my-neutral-voice)
 
 
 ## Machine Translation
