@@ -71,6 +71,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Historical
 
 * [Anselm (14th-16th centuries)](https://www.linguistics.ruhr-uni-bochum.de/anselm/access/index.en.html)
+* [Austrian Newspapers (19th C. NewsEye / READ OCR training dataset)](https://github.com/UB-Mannheim/AustrianNewspapers)
 * [Deutsches Textarchiv](https://deutschestextarchiv.de/)
 * [Elektronische Texte (Thomas Gloning)](http://www.staff.uni-giessen.de/gloning/etexte.htm)
 * [GerManC (1650-1800)](https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2544)
@@ -84,6 +85,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Referenzkorpus Mittelniederdeutsch/Niederrheinisch (1200-1650)](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/text-corpus:ren-0.6)
 * [Referenzkorpus Frühneuhochdeutsch (1350-1650)](https://www.linguistics.ruhr-uni-bochum.de/ref/)
 * [Thesaurus Indogermanischer Text- und Sprachmaterialien (TITUS)](http://titus.uni-frankfurt.de/indexd.htm?/texte/texte.htm)
+* [Transkriptionen von Fibeln (19. Jahrhundert)](https://github.com/UB-Mannheim/Fibeln)
 
 
 ### Specialized
@@ -145,6 +147,9 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [german_stopwords](https://github.com/solariz/german_stopwords)
 * [Stopwords German (DE)](https://github.com/stopwords-iso/stopwords-de)
+
+* [wiktextract](https://github.com/tatuylonen/wiktextract)
+* [wiktionary-de-parser](https://github.com/gambolputty/wiktionary-de-parser)
 
 
 ### Data acquisition
@@ -288,6 +293,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [lang-deu](https://github.com/giellalt/lang-deu)
 * [Low German morphology and tools](https://github.com/giellalt/lang-nds)
 * [MarMoT](http://cistern.cis.lmu.de/marmot/)
+* [MOP Compound Splitter](https://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/mcs/)
 * [Morphy](http://morphy.wolfganglezius.de/)
 * [morphisto](https://code.google.com/archive/p/morphisto/)
 * [nnsplit](https://github.com/bminixhofer/nnsplit)
@@ -343,6 +349,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [AmbiverseNLU KnowNER](https://github.com/ambiverse-nlu/ambiverse-nlu)
 * [flair](https://github.com/zalandoresearch/flair)
 * [GermaNER](https://github.com/tudarmstadt-lt/GermaNER)
+* [GERNERMED](https://github.com/frankkramer-lab/GERNERMED)
 * [historic-ner](https://github.com/dbmdz/historic-ner)
 * [LSTM+CRF+FastText with models for (historic) German](https://github.com/riedlma/sequence_tagging)
 * [microNER](https://uhh-lt.github.io/microNER/)
@@ -417,6 +424,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [HeiST – Heidelberg Sentiment Treebank](http://www.cl.uni-heidelberg.de/~versley/HeiST/)
 * [(Non-)Literalness Ratings for complex verbs](http://www.ims.uni-stuttgart.de/data/pv_nonlit )
 * [Potsdam Twitter Sentiment Corpus (PotTS)](https://github.com/WladimirSidorenko/PotTS)
+* [Sentiment dictionary for German political language](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BKBXWD)
 * [Sentiment Lexicon (Univ. Zurich)](http://bics.sentimental.li/files/8614/2462/8150/german.lex)
 * [SentimentWortschatz](http://wortschatz.uni-leipzig.de/en/download/)
 * [SpinningBytes Swiss German Sentiment Corpus](https://github.com/spinningbytes/SB-CH)
@@ -551,10 +559,11 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Larger institutional GitHub groups
 
-* [German NLP Group](https://github.com/German-NLP-Group)
+
 * [Language Technology Group, Universität Hamburg](https://github.com/uhh-lt)
 * [Saarland University Spoken Language Systems Group](https://github.com/uds-lsv)
 * [Ubiquitous Knowledge Processing Lab, TU Darmstadt](https://github.com/ukplab)
+* [Webis](https://github.com/webis-de)
 
 
 ## Contributors
