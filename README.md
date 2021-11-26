@@ -24,7 +24,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
    - [Annotation](#Annotation)
    - [Standards](#Standards)
 - [Linguistic processing](#Linguistic-processing)
-   - [Tokenization](#Tokenization)
+   - [Tokenization / Sentence boundary detection](#Tokenization--sentence-boundary-detection)
    - [Stemming](#Stemming)
    - [Lemmatization](#Lemmatization)
    - [Morphological analysis](#Morphological-analysis)
