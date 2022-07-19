@@ -24,6 +24,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
    - [Annotation](#Annotation)
    - [Standards](#Standards)
 - [Linguistic processing](#Linguistic-processing)
+   - [Preprocessing](#Preprocessing)
    - [Tokenization / Sentence boundary detection](#Tokenization--sentence-boundary-detection)
    - [Stemming](#Stemming)
    - [Lemmatization](#Lemmatization)
@@ -81,9 +82,9 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Lesekorpus Altdeutsch (750-1050)](http://titus.uni-frankfurt.de/lea)
 * [LiederCorpus](https://github.com/corpusmusic/liederCorpusAnalysis)
 * [Referenzkorpus Altdeutsch (750-1050)](http://www.deutschdiachrondigital.de/)
-* [Referenzkorpus Mittelhochdeutsch (1050-1350)](https://www.linguistics.ruhr-uni-bochum.de/rem/)
+* [Referenzkorpus Mittelhochdeutsch (1050-1350)](https://www.linguistics.rub.de/rem/)
 * [Referenzkorpus Mittelniederdeutsch/Niederrheinisch (1200-1650)](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/text-corpus:ren-0.6)
-* [Referenzkorpus Frühneuhochdeutsch (1350-1650)](https://www.linguistics.ruhr-uni-bochum.de/ref/)
+* [Referenzkorpus Frühneuhochdeutsch (1350-1650)](https://www.linguistics.rub.de/ref/)
 * [Thesaurus Indogermanischer Text- und Sprachmaterialien (TITUS)](http://titus.uni-frankfurt.de/indexd.htm?/texte/texte.htm)
 * [Transkriptionen von Fibeln (19. Jahrhundert)](https://github.com/UB-Mannheim/Fibeln)
 
@@ -92,6 +93,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [arg-microtexts](http://angcl.ling.uni-potsdam.de/resources/argmicro.html)
 * [auto-hMDS (multi-document summarization)](https://github.com/AIPHES/auto-hMDS)
+* [DFKI MobIE](https://github.com/DFKI-NLP/MobIE)
 * [DIRNDL -- (D)iscourse (I)nformation (R)adio (N)ews (D)atabase for (L)inguistic Analysis](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/dirndl.en.html)
 * [Dortmunder Chat Korpus](http://www.chatkorpus.tu-dortmund.de/)
 * [Feidegger (Fashion Images and Descriptions)](https://github.com/zalandoresearch/feidegger)
@@ -102,8 +104,10 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [German Political Speeches Corpus](http://purl.org/corpus/german-speeches)
 * [German Recipes Dataset](https://www.kaggle.com/sterby/german-recipes-dataset)
 * [GermaParl (Bundestag)](https://github.com/PolMine/GermaParlTEI)
+* [German Parliamentary Corpus (GerParCor)](https://github.com/texttechnologylab/GerParCor)
 * [German Wikipedia Text Corpus](https://github.com/t-systems-on-site-services-gmbh/german-wikipedia-text-corpus)
 * [GRAIN corpus -- (G)erman-(RA)dio-(IN)terviews](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/grain.html)
+* [Legal Entity Recognition](https://github.com/elenanereiss/Legal-Entity-Recognition)
 * [One Million Posts Corpus](https://ofai.github.io/million-post-corpus/)
 * [Open Legal Data Corpus (German laws and court decisions)](http://openlegaldata.io/research/2019/02/19/court-decision-dataset.html)
 * [Pegida Facebook Comments](http://0x0a.li/wp-content/uploads/2015/01/pegida_korpus.zip)
@@ -133,6 +137,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [Analogies in German Particle Verb Meaning Shifts](http://www.ims.uni-stuttgart.de/data/pv-meaning-shift)
 * [Degree of Grammaticalization for German Prepositions](https://www.ims.uni-stuttgart.de/forschung/ressourcen/experiment-daten/gramm-prepositions.html)
+* [DWDS lemma list](https://www.dwds.de/lemma/list)
 * [DeReWo](http://www1.ids-mannheim.de/kl/projekte/methoden/derewo.html)
 * [Diachronic Usage Relatedness (DURel)](http://www.ims.uni-stuttgart.de/data/durel)
 * [DiMLex (lexicon of German discourse markers)](https://github.com/discourse-lab/dimlex)
@@ -249,6 +254,12 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 
 ## Linguistic processing
+
+### Preprocessing
+
+* [clean-text](https://github.com/jfilter/clean-text)
+* [german_transliterate](https://github.com/repodiac/german_transliterate)
+
 
 ### Tokenization / Sentence boundary detection
 
@@ -470,6 +481,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Summarization
 
+* [Klexikon](https://github.com/dennlinger/klexikon) (Joint Summarization and Simplification)
 * [Tools and corpora for summarization of German texts](https://github.com/AIPHES)
 
 
@@ -550,6 +562,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [awesome-hungarian-nlp](https://github.com/oroszgy/awesome-hungarian-nlp)
 * [awesome Information Retrieval](https://github.com/harpribot/awesome-information-retrieval)
 * [Indonesian NLP](https://github.com/kmkurn/id-nlp-resource)
+* [Norwegian NLP resources](https://github.com/web64/norwegian-nlp-resources)
 * [awesome-nlp-polish](https://github.com/ksopyla/awesome-nlp-polish)
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
 * [M. Weisser's list of NLP/Computational Linguistics Resources](http://martinweisser.org/corpora_site/comp_ling_resources.html)
@@ -560,6 +573,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Larger institutional GitHub groups
 
 
+* [DFKI-NLP](https://github.com/DFKI-NLP)
 * [Language Technology Group, Universität Hamburg](https://github.com/uhh-lt)
 * [Saarland University Spoken Language Systems Group](https://github.com/uds-lsv)
 * [Ubiquitous Knowledge Processing Lab, TU Darmstadt](https://github.com/ukplab)
