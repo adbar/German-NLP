@@ -258,6 +258,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 ### Preprocessing
 
 * [clean-text](https://github.com/jfilter/clean-text)
+* [german-preprocessing](https://github.com/jfilter/german-preprocessing)
 * [german_transliterate](https://github.com/repodiac/german_transliterate)
 
 
@@ -270,6 +271,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [syntok](https://github.com/fnl/syntok)
 * [waste](http://kaskade.dwds.de/waste/)
 * [german-abbreviations](https://github.com/jfilter/german-abbreviations)
+* [FullStop](https://github.com/oliverguhr/fullstop-deep-punctuation-prediction)
 
 
 ### Stemming
@@ -287,6 +289,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [german-lemmatizer](https://github.com/jfilter/german-lemmatizer)
 * [IWNLP](https://github.com/Liebeck/IWNLP)
    * [spacy-iwnlp](https://github.com/Liebeck/spacy-iwnlp)
+* [LemmaTag](https://github.com/Hyperparticle/LemmaTag)
 * [simplemma](https://github.com/adbar/simplemma)
 
 
@@ -332,6 +335,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [clevertagger](https://github.com/rsennrich/clevertagger)
 * [HanTa](https://github.com/wartaal/HanTa/)
 * [hunpos](https://github.com/mivoq/hunpos)
+* [LemmaTag](https://github.com/Hyperparticle/LemmaTag)
 * [moot](http://kaskade.dwds.de/~jurish/projects/moot)
 * [pattern.de](https://www.clips.uantwerpen.be/pages/pattern-de)
 * [RFTagger](http://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
@@ -366,6 +370,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [microNER](https://uhh-lt.github.io/microNER/)
 * [Named Entity Recognition (LSTM + CRF + FastText) with models for [historic] German](https://github.com/riedlma/sequence_tagging)
 * [ner-corpora](https://github.com/EuropeanaNewspapers/ner-corpora)
+* [NER-datasets](https://github.com/davidsbatista/NER-datasets)
 * [(Faruqui & Pado 2010) Components and evaluation data](https://nlpado.de/~sebastian/software/ner_german.shtml)
 * [Towards Robust Named Entity Recognition for Historic German](https://github.com/dbmdz/historic-ner)
 
@@ -375,6 +380,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [German Preprocessing](https://github.com/jfilter/german-preprocessing)
 * [ICARUS (query tool)](http://hdl.handle.net/11022/1007-0000-0000-8E56-0)
    * [ICARUS2](http://hdl.handle.net/11022/1007-0000-0007-C635-E)
+* [nlprule (error correction)](https://github.com/bminixhofer/nlprule)
 
 
 ### Text generation
@@ -425,6 +431,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [sensegram](https://github.com/tudarmstadt-lt/sensegram)
 * [SpinningBytes word embeddings (tweets)](https://www.spinningbytes.com/resources/wordembeddings/)
 * [UBY Linked Lexical Resource](https://dkpro.github.io/dkpro-uby/)
+* [WECHSEL (subword embeddings)](https://github.com/CPJKU/wechsel)
 
 
 ### Sentiment analysis datasets / polarity clues
@@ -565,6 +572,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Norwegian NLP resources](https://github.com/web64/norwegian-nlp-resources)
 * [awesome-nlp-polish](https://github.com/ksopyla/awesome-nlp-polish)
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
+* [NLP-Pandect](https://github.com/ivan-bilan/The-NLP-Pandect)
 * [M. Weisser's list of NLP/Computational Linguistics Resources](http://martinweisser.org/corpora_site/comp_ling_resources.html)
 * [NLP tools (Saarland University)](http://www.coli.uni-saarland.de/~csporled/page.php?id=tools)
 * [W. Roberts' Computational Linguistics Links](http://amor.cms.hu-berlin.de/~robertsw/links.html)
