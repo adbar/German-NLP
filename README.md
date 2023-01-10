@@ -146,15 +146,13 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [German nouns from Wiktionary](https://github.com/gambolputty/german-nouns)
 * [Metaphoric Change (annotated lexemes)](http://www.ims.uni-stuttgart.de/forschung/ressourcen/experiment-daten/metaphoric_change.html)
 * [Morphological Dictionaries (DEMorphy)](https://github.com/DuyguA/german-morph-dictionaries)
-* [German Wiktionary Lexicon Graph](https://vlo.clarin.eu/record?10&count=2&docId=21.11105_47_0000-000B-D244-B&fq=collection:CEDIFOR.Lexicon&fqType=collection:or&index=0)
-* [German word list for GNU Aspell](https://sourceforge.net/projects/germandict/files/)
-* [OpenThesaurus](https://www.openthesaurus.de/about/download)
-
 * [german_stopwords](https://github.com/solariz/german_stopwords)
 * [Stopwords German (DE)](https://github.com/stopwords-iso/stopwords-de)
-
+* [German Wiktionary Lexicon Graph](https://vlo.clarin.eu/record?10&count=2&docId=21.11105_47_0000-000B-D244-B&fq=collection:CEDIFOR.Lexicon&fqType=collection:or&index=0)
 * [wiktextract](https://github.com/tatuylonen/wiktextract)
 * [wiktionary-de-parser](https://github.com/gambolputty/wiktionary-de-parser)
+* [German word list for GNU Aspell](https://sourceforge.net/projects/germandict/files/)
+* [OpenThesaurus](https://www.openthesaurus.de/about/download)
 
 
 ### Data acquisition
