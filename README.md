@@ -262,8 +262,11 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Tokenization / Sentence boundary detection
 
+* [Cutter](https://pub.cl.uzh.ch/wiki/public/cutter/start)
+* [Datok](https://github.com/korap/datok)
 * [deep-eos](https://github.com/dbmdz/deep-eos)
 * [JTok](https://github.com/DFKI-MLT/JTok)
+* [KorAP-Tokenizer](https://github.com/KorAP/KorAP-Tokenizer)
 * [nnsplit](https://github.com/bminixhofer/nnsplit)
 * [SoMaJo](https://github.com/tsproisl/SoMaJo)
 * [syntok](https://github.com/fnl/syntok)
