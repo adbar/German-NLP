@@ -262,14 +262,14 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Tokenization / Sentence boundary detection
 
-* [deep-eos](https://github.com/dbmdz/deep-eos)
+* [deep-eos](https://github.com/dbmdz/deep-eos) (sentence boundary detection only)
+* [FullStop](https://github.com/oliverguhr/fullstop-deep-punctuation-prediction) (sentence boundary detection only)
 * [JTok](https://github.com/DFKI-MLT/JTok)
-* [nnsplit](https://github.com/bminixhofer/nnsplit)
+* [nnsplit](https://github.com/bminixhofer/nnsplit) (sentence boundary detection only)
 * [SoMaJo](https://github.com/tsproisl/SoMaJo)
 * [syntok](https://github.com/fnl/syntok)
 * [waste](http://kaskade.dwds.de/waste/)
-* [german-abbreviations](https://github.com/jfilter/german-abbreviations)
-* [FullStop](https://github.com/oliverguhr/fullstop-deep-punctuation-prediction)
+* [german-abbreviations](https://github.com/jfilter/german-abbreviations) (resource)
 
 
 ### Stemming
