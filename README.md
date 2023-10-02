@@ -264,7 +264,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [Cutter](https://pub.cl.uzh.ch/wiki/public/cutter/start)
 * [Datok](https://github.com/korap/datok)
-* [deep-eos](https://github.com/dbmdz/deep-eos)
+* [deep-eos](https://github.com/dbmdz/deep-eos) (sentence boundary detection only)
 * [FullStop](https://github.com/oliverguhr/fullstop-deep-punctuation-prediction) (sentence boundary detection only)
 * [JTok](https://github.com/DFKI-MLT/JTok)
 * [KorAP-Tokenizer](https://github.com/KorAP/KorAP-Tokenizer)
