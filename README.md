@@ -222,6 +222,8 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ## Deep learning models and transformers
 
+* [LAION LeoLM Llama v2 German Foundation Language Model 7B Parameters](https://huggingface.co/LeoLM/leo-hessianai-7b)
+* [LAION  LeoLM Llama v2 German Foundation Language Model 13B Parameters](https://huggingface.co/LeoLM/leo-hessianai-13b)
 * [dbmdz BERT models](https://github.com/dbmdz/berts)
 * [Deepset German BERT model](https://deepset.ai/german-bert)
 * [Evaluating German Transformer Language Models with Syntactic Agreement Tests](https://github.com/DFKI-NLP/gevalm)
