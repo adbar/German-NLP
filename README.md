@@ -115,6 +115,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Songkorpus](http://songkorpus.de/)
 * [Ten Thousand German News Articles Dataset](https://github.com/tblock/10kGNAD)
 * [TTLab StadtWiki Corpus](https://vlo.clarin.eu/?7&fq=collection:CEDIFOR.Corpus.StadtWikis&fqType=collection:or)
+* [GSM-1k-de (translated german subset of the first 1000 items of GSM8K)](https://huggingface.co/datasets/D4ve-R/gsm-1k-de)
 
 #### Swiss German
 
