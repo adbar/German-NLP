@@ -43,10 +43,11 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
    - [Sentiment detection](#Sentiment-detection)
    - [GermEval](#GermEval)
    - [Coreference resolution](#Coreference-resolution)
-   - [Summarization](#Summarization)
+   - [Summarization and Simplification](#Summarization-and-simplification)
    - [Psycholinguistics](#Psycholinguistics)
 - [Speech NLP](#Speech-NLP)
 - [Machine Translation](#Machine-Translation)
+- [Large Language Models](#Large-language-models)
 - [Teaching resources and tutorials](#Teaching-resources-and-tutorials)
 - [More lists](#More-lists)
    - [German](#German)
@@ -144,15 +145,16 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [German Compound Database](https://www.webcorpora.org/opendata/gecodb/)
 * [German derivational lexicons](http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/DErivBase.html)
 * [German nouns from Wiktionary](https://github.com/gambolputty/german-nouns)
+* [german_stopwords](https://github.com/solariz/german_stopwords)
+* [German Wiktionary Lexicon Graph](https://vlo.clarin.eu/record?10&count=2&docId=21.11105_47_0000-000B-D244-B&fq=collection:CEDIFOR.Lexicon&fqType=collection:or&index=0)
+* [German word list for GNU Aspell](https://sourceforge.net/projects/germandict/files/)
 * [Metaphoric Change (annotated lexemes)](http://www.ims.uni-stuttgart.de/forschung/ressourcen/experiment-daten/metaphoric_change.html)
 * [Morphological Dictionaries (DEMorphy)](https://github.com/DuyguA/german-morph-dictionaries)
-* [german_stopwords](https://github.com/solariz/german_stopwords)
+* [OpenThesaurus](https://www.openthesaurus.de/about/download)
 * [Stopwords German (DE)](https://github.com/stopwords-iso/stopwords-de)
-* [German Wiktionary Lexicon Graph](https://vlo.clarin.eu/record?10&count=2&docId=21.11105_47_0000-000B-D244-B&fq=collection:CEDIFOR.Lexicon&fqType=collection:or&index=0)
+* [VulGer](https://github.com/ee-2/VulGer/)
 * [wiktextract](https://github.com/tatuylonen/wiktextract)
 * [wiktionary-de-parser](https://github.com/gambolputty/wiktionary-de-parser)
-* [German word list for GNU Aspell](https://sourceforge.net/projects/germandict/files/)
-* [OpenThesaurus](https://www.openthesaurus.de/about/download)
 
 
 ### Data acquisition
@@ -326,6 +328,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [CAB](http://www.deutschestextarchiv.de/cab)
 * [dehyphen](https://github.com/pd3f/dehyphen)
 * [norma](https://github.com/comphist/norma)
+* [transnormer](https://github.com/ybracke/transnormer)
 
 
 ### Phonology
@@ -398,6 +401,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [German Decompounder for Apache Lucene / Apache Solr / Elasticsearch](https://github.com/uschindler/german-decompounder)
 * [holmes-extractor](https://github.com/msg-systems/holmes-extractor)
 * [LanguageTool](https://languagetool.org)
+* [Plenum First Said](https://github.com/ungeschneuer/plenum_first_said)
 
 
 ### Evaluation
@@ -453,6 +457,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Sentiment detection
 
+* [3x8emotions](https://github.com/tweedmann/3x8emotions)
 * [EmotiKLUE](https://github.com/tsproisl/EmotiKLUE)
 * [germansentiment: A simple python package for sentiment classification](https://github.com/oliverguhr/german-sentiment-lib)
 * [LT-ABSA: Aspect-based Sentiment Analysis](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/software/lt-absa.html)
@@ -489,8 +494,9 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Tense-mood-voice annotation system](https://github.com/aniramm/tmv-annotator)
 
 
-### Summarization
+### Summarization and Simplification
 
+* [DEPlain](https://github.com/rstodden/DEPlain)
 * [Klexikon](https://github.com/dennlinger/klexikon) (Joint Summarization and Simplification)
 * [Tools and corpora for summarization of German texts](https://github.com/AIPHES)
 
@@ -528,6 +534,16 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Linguatools Webcrawl German-English 2015](http://linguatools.org/tools/corpora/webcrawl-parallel-corpus-german-english-2015/)
 * [MuchMore Springer Bilingual Corpus](http://muchmore.dfki.de/resources1.htm)
 * [OPUS collection](http://opus.nlpl.eu/)
+
+
+## Large Language Models
+
+* [EM_German](https://github.com/jphme/EM_German)
+* [German Alpaca Dataset](https://github.com/LEL-A/GerAlpacaDataCleaned)
+* [German Language Models](https://github.com/malteos/german-language-models)
+* [GermanRAG](https://github.com/rasdani/germanrag)
+* [German Text Embedding Clustering Benchmark](https://github.com/ClimSocAna/tecb-de)
+* [Swiss German Text Encoders](https://github.com/ZurichNLP/swiss-german-text-encoders)
 
 
 ## Teaching resources and tutorials
