@@ -4,7 +4,7 @@ Curated list of open-access/open-source/off-the-shelf resources and tools develo
 
 Resources and tools which can be used either off-the-shelf or with minor adjustments and which are currently maintained are primarily chosen for this list. It is deliberately biased in terms of usability and user-friendliness.
 
-Pull requests and suggestions are welcome! See [contributing guidelines](contributing.md).
+Community support is needed to keep this list up-to-date, pull requests and suggestions are welcome! See [contributing guidelines](contributing.md).
 
 
 
@@ -92,6 +92,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 ### Specialized
 
+* [AGB-DE](https://github.com/DaBr01/AGB-DE)
 * [arg-microtexts](http://angcl.ling.uni-potsdam.de/resources/argmicro.html)
 * [auto-hMDS (multi-document summarization)](https://github.com/AIPHES/auto-hMDS)
 * [DFKI MobIE](https://github.com/DFKI-NLP/MobIE)
@@ -114,6 +115,7 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 * [Pegida Facebook Comments](http://0x0a.li/wp-content/uploads/2015/01/pegida_korpus.zip)
 * [Potsdam Commentary Corpus (PCC)](http://angcl.ling.uni-potsdam.de/resources/pcc.html)
 * [Songkorpus](http://songkorpus.de/)
+* [Survey of Corpora for Germanic Low-Resource Languages and Dialects](https://github.com/mainlp/germanic-lrl-corpora)
 * [Ten Thousand German News Articles Dataset](https://github.com/tblock/10kGNAD)
 * [TTLab StadtWiki Corpus](https://vlo.clarin.eu/?7&fq=collection:CEDIFOR.Corpus.StadtWikis&fqType=collection:or)
 * [GSM-1k-de (translated german subset of the first 1000 items of GSM8K)](https://huggingface.co/datasets/D4ve-R/gsm-1k-de)
@@ -541,10 +543,12 @@ Pull requests and suggestions are welcome! See [contributing guidelines](contrib
 
 * [EM_German](https://github.com/jphme/EM_German)
 * [German Alpaca Dataset](https://github.com/LEL-A/GerAlpacaDataCleaned)
+* [German Benchmark Datasets](https://github.com/bjoernpl/GermanBenchmark)
 * [German Language Models](https://github.com/malteos/german-language-models)
 * [GermanRAG](https://github.com/rasdani/germanrag)
 * [German Text Embedding Clustering Benchmark](https://github.com/ClimSocAna/tecb-de)
 * [Swiss German Text Encoders](https://github.com/ZurichNLP/swiss-german-text-encoders)
+* [Vox Populi, Vox AI](https://github.com/leahvdh/Vox-Populi-Vox-AI)
 
 
 ## Teaching resources and tutorials
