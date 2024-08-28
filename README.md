@@ -116,6 +116,7 @@ Community support is needed to keep this list up-to-date, pull requests and sugg
 * [Potsdam Commentary Corpus (PCC)](http://angcl.ling.uni-potsdam.de/resources/pcc.html)
 * [Songkorpus](http://songkorpus.de/)
 * [Survey of Corpora for Germanic Low-Resource Languages and Dialects](https://github.com/mainlp/germanic-lrl-corpora)
+* [TeCoPhy: A Text Corpus of German Physics Texts]{https://zenodo.org/records/8316079}
 * [Ten Thousand German News Articles Dataset](https://github.com/tblock/10kGNAD)
 * [TTLab StadtWiki Corpus](https://vlo.clarin.eu/?7&fq=collection:CEDIFOR.Corpus.StadtWikis&fqType=collection:or)
 * [GSM-1k-de (translated german subset of the first 1000 items of GSM8K)](https://huggingface.co/datasets/D4ve-R/gsm-1k-de)
@@ -295,6 +296,7 @@ Community support is needed to keep this list up-to-date, pull requests and sugg
 * [germalemma](https://github.com/WZBSocialScienceCenter/germalemma)
 * [GermaLemma++ (ensemble)](https://github.com/rubcompling/germalemmaplusplus)
 * [german-lemmatizer](https://github.com/jfilter/german-lemmatizer)
+* [HanTa]{https://github.com/wartaal/HanTa}
 * [IWNLP](https://github.com/Liebeck/IWNLP)
    * [spacy-iwnlp](https://github.com/Liebeck/spacy-iwnlp)
 * [LemmaTag](https://github.com/Hyperparticle/LemmaTag)
