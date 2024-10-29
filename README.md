@@ -296,7 +296,7 @@ Community support is needed to keep this list up-to-date, pull requests and sugg
 * [germalemma](https://github.com/WZBSocialScienceCenter/germalemma)
 * [GermaLemma++ (ensemble)](https://github.com/rubcompling/germalemmaplusplus)
 * [german-lemmatizer](https://github.com/jfilter/german-lemmatizer)
-* [HanTa]{https://github.com/wartaal/HanTa}
+* [HanTa](https://github.com/wartaal/HanTa)
 * [IWNLP](https://github.com/Liebeck/IWNLP)
    * [spacy-iwnlp](https://github.com/Liebeck/spacy-iwnlp)
 * [LemmaTag](https://github.com/Hyperparticle/LemmaTag)
