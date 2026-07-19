@@ -549,6 +549,7 @@ Community support is needed to keep this list up-to-date, pull requests and sugg
 * [German Language Models](https://github.com/malteos/german-language-models)
 * [GermanRAG](https://github.com/rasdani/germanrag)
 * [German Text Embedding Clustering Benchmark](https://github.com/ClimSocAna/tecb-de)
+* [KI-Benchmark-Deutsch](https://i6eal.de/ki-benchmark-deutsch/)
 * [Swiss German Text Encoders](https://github.com/ZurichNLP/swiss-german-text-encoders)
 * [Vox Populi, Vox AI](https://github.com/leahvdh/Vox-Populi-Vox-AI)
 
