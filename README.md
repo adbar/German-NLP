@@ -197,6 +197,7 @@ Community support is needed to keep this list up-to-date, pull requests and sugg
 * [AmbiverseNLU](https://github.com/ambiverse-nlu/ambiverse-nlu)
 * [CLARIN-D web tools](https://www.clarin-d.net/en/analysing)
 * [CorpusExplorer](http://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/)
+* [deutsches-ki-toolkit](https://github.com/mehrabix/deutsches-ki-toolkit)
 * [DKPro Core](https://dkpro.github.io/dkpro-core)
 * [DKPro Similarity](https://dkpro.github.io/dkpro-similarity)
 * [DKPro Text Classification (TC)](https://dkpro.github.io/dkpro-tc)
