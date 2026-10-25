@@ -110,6 +110,7 @@ Community support is needed to keep this list up-to-date, pull requests and sugg
 * [German Wikipedia Text Corpus](https://github.com/t-systems-on-site-services-gmbh/german-wikipedia-text-corpus)
 * [GRAIN corpus -- (G)erman-(RA)dio-(IN)terviews](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/grain.html)
 * [Legal Entity Recognition](https://github.com/elenanereiss/Legal-Entity-Recognition)
+* [MeloLingua CEFR-Graded Stories (German-English, A1-B2 Graded Readers)](https://github.com/MeloLingua/melolingua-language-stories-dataset)
 * [One Million Posts Corpus](https://ofai.github.io/million-post-corpus/)
 * [Open Legal Data Corpus (German laws and court decisions)](http://openlegaldata.io/research/2019/02/19/court-decision-dataset.html)
 * [Pegida Facebook Comments](http://0x0a.li/wp-content/uploads/2015/01/pegida_korpus.zip)
