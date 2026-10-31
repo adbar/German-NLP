@@ -547,6 +547,7 @@ Community support is needed to keep this list up-to-date, pull requests and sugg
 * [EM_German](https://github.com/jphme/EM_German)
 * [German Alpaca Dataset](https://github.com/LEL-A/GerAlpacaDataCleaned)
 * [German Benchmark Datasets](https://github.com/bjoernpl/GermanBenchmark)
+* [German Language LLM Index](https://dach.peerbench.ai)
 * [German Language Models](https://github.com/malteos/german-language-models)
 * [GermanRAG](https://github.com/rasdani/germanrag)
 * [German Text Embedding Clustering Benchmark](https://github.com/ClimSocAna/tecb-de)
