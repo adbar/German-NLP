@@ -239,6 +239,7 @@ Community support is needed to keep this list up-to-date, pull requests and sugg
 * [german-transformer-training](https://github.com/PhilipMay/german-transformer-training)
 * [GermLM](https://github.com/tonianelope/Multilingual-BERT) (NER exploration)
 * [GerPT2](https://github.com/bminixhofer/gerpt2)
+* [Lupe rerankers](https://huggingface.co/syntriq/lupe-multilingual-reranker-small) (cross-encoders for German and multilingual search and RAG)
 * [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
 
 
@@ -385,6 +386,7 @@ Community support is needed to keep this list up-to-date, pull requests and sugg
 * [ner-corpora](https://github.com/EuropeanaNewspapers/ner-corpora)
 * [NER-datasets](https://github.com/davidsbatista/NER-datasets)
 * [(Faruqui & Pado 2010) Components and evaluation data](https://nlpado.de/~sebastian/software/ner_german.shtml)
+* [Tarn](https://github.com/Syntriq-GmbH/tarn) (personal data detection incl. German identifiers, Presidio-compatible)
 * [Towards Robust Named Entity Recognition for Historic German](https://github.com/dbmdz/historic-ner)
 
 
